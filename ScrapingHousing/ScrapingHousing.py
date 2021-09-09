@@ -23,6 +23,7 @@ for i in cities_needed:
 # OK now we import selenium and run the next steps
 
 from selenium import webdriver
+import os
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -37,7 +38,7 @@ home_data = {'city': city_scrape, 'state':state_scrape, 'number of homes':[], 'm
 # Now we run the Selenium instance
 for i, j in zip(home_data['city'],home_data['state']):
     url = f'https://www.bestplaces.net/housing/city/{j}/{i}'
-    driver = webdriver.Chrome()
+    driver = webdriver.ChromeOptions()
     driver.get(url)
     try:    
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
