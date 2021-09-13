@@ -1,1 +1,1 @@
-worker: python ScrapingHousing.py
+worker: python3.8.6 ScrapingHousing.py
