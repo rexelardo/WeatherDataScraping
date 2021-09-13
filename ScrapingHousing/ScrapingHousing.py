@@ -38,8 +38,17 @@ home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of h
 # Now we run the Selenium instance
 for i, j in zip(home_data['city'],home_data['state']):
     url = f'https://www.bestplaces.net/housing/city/{j}/{i}'
-    driver = webdriver.Chrome()
+    # trying the method to deploy on Heroku
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--no-sandbox")
+    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
     driver.get(url)
+    # This part will be to see where the Excel is stored
+    dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
+    dict_df.to_csv('housing_data.csv')
     try:    
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
     except TimeoutException:
@@ -127,6 +136,5 @@ for i, j in zip(home_data['city'],home_data['state']):
 
 # Finally, we stick the results to a PD dataframe and export!
 
-dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
-dict_df.to_csv('housing_data.csv')
+
 
