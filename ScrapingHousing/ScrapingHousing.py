@@ -36,10 +36,18 @@ def st_csv_download_button(df):
     href = f'<a href="data:file/csv;base64,{b64}">Download CSV File</a>'
     st.markdown(href, unsafe_allow_html=True)  
 
+
 home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
            'home appr. last 10 years':[], 'Property Tax Rate':[], 'Property Taxes Paid':[], 'Homes Owned':[],\
            'Housing Vacant':[], 'Homes Rented':[]}
+
+
+
+#Let's see if we can download this info
+dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
+st_csv_download_button(dict_df)
+
 
 # Now we run the Selenium instance
 for i, j in zip(home_data['city'],home_data['state']):
@@ -54,7 +62,6 @@ for i, j in zip(home_data['city'],home_data['state']):
     driver.get(url)
     # This part will be to see where the Excel is stored
     dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
-    st_csv_download_button(dict_df)
     try:    
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
     except TimeoutException:
