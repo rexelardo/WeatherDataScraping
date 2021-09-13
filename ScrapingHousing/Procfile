@@ -1,1 +1,1 @@
-worker: python ScrapingHousing.py
+web: python ScrapingHousing.py
