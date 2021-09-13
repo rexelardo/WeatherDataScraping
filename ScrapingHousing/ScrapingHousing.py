@@ -38,7 +38,7 @@ from selenium.common.exceptions import TimeoutException
 #     st.markdown(href, unsafe_allow_html=True)  
 
 
-home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
+home_data = {'city': city_scrape[180:], 'state':state_scrape[180:],'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
            'home appr. last 10 years':[], 'Property Tax Rate':[], 'Property Taxes Paid':[], 'Homes Owned':[],\
            'Housing Vacant':[], 'Homes Rented':[]}
@@ -59,7 +59,7 @@ for i, j in zip(home_data['city'],home_data['state']):
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("disable-features=NetworkService") 
+    chrome_options.add_argument("enable-features=NetworkServiceInProcess")
     driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), options=chrome_options)
     driver.get(url)
     # This part will be to see where the Excel is stored
@@ -148,9 +148,6 @@ for i, j in zip(home_data['city'],home_data['state']):
         home_data['Homes Rented'].append('server issue, perhaps collect later')
         home_data['county'].append('server issue, perhaps collect later')
         driver.quit()
-
-
-# Finally, we stick the results to a PD dataframe and export!
 
 
 
