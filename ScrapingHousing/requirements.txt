@@ -4,17 +4,11 @@ GitPython==3.1.14
 lxml==4.6.2
 numpy==1.18.5
 packaging==20.9
-packgenlite @ git+https://github.com/krokrob/packgenlite@f9059652d06b9c42997dedc9064748fcb7177768
 pandas==1.2.2
 pandas-profiling==2.11.0
 pandocfilters==1.4.3
-parso==0.8.1
-Pillow==8.1.0
 requests==2.25.1
 requests-oauthlib==1.3.0
 requests-toolbelt==0.9.1
 selenium==3.141.0
-SQLAlchemy==1.4.3
-sqlparse==0.4.1
-urllib3==1.26.3
 streamlit
