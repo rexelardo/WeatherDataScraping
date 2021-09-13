@@ -59,13 +59,14 @@ for i, j in zip(home_data['city'],home_data['state']):
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("enable-features=NetworkServiceInProcess")
+    chrome_options.addArguments("enable-features=NetworkServiceInProcess")
     driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), options=chrome_options)
-    driver.get(url)
+    
     # This part will be to see where the Excel is stored
     dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
     dict_df.to_csv('housingData.csv')
-    try:    
+    try:  
+        driver.get(url)  
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
     except TimeoutException:
         print(f'No data for {i},{j}')
