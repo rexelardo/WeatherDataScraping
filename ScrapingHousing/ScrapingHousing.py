@@ -28,7 +28,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-from selenium.common.exceptions import ElementNotSelectableException
+import base64
+import streamlit as st
+def st_csv_download_button(df):
+    csv = df.to_csv(index=False) #if no filename is given, a string is returned
+    b64 = base64.b64encode(csv.encode()).decode()
+    href = f'<a href="data:file/csv;base64,{b64}">Download CSV File</a>'
+    st.markdown(href, unsafe_allow_html=True)  
 
 home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
@@ -48,7 +54,7 @@ for i, j in zip(home_data['city'],home_data['state']):
     driver.get(url)
     # This part will be to see where the Excel is stored
     dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
-    dict_df.to_csv('housing_data.csv')
+    st_csv_download_button(dict_df)
     try:    
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
     except TimeoutException:
