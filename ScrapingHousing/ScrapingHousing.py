@@ -30,7 +30,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import ElementNotSelectableException
 
-home_data = {'city': city_scrape, 'state':state_scrape, 'number of homes':[], 'median home age':[],\
+home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
            'home appr. last 10 years':[], 'Property Tax Rate':[], 'Property Taxes Paid':[], 'Homes Owned':[],\
            'Housing Vacant':[], 'Homes Rented':[]}
@@ -38,7 +38,7 @@ home_data = {'city': city_scrape, 'state':state_scrape, 'number of homes':[], 'm
 # Now we run the Selenium instance
 for i, j in zip(home_data['city'],home_data['state']):
     url = f'https://www.bestplaces.net/housing/city/{j}/{i}'
-    driver = webdriver.ChromeOptions()
+    driver = webdriver.Chrome()
     driver.get(url)
     try:    
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
@@ -55,6 +55,7 @@ for i, j in zip(home_data['city'],home_data['state']):
         home_data['Homes Owned'].append('no data')
         home_data['Housing Vacant'].append('no data')
         home_data['Homes Rented'].append('no data')
+        home_data['county'].append('no data')
         driver.quit()
         continue
     newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
@@ -102,7 +103,10 @@ for i, j in zip(home_data['city'],home_data['state']):
         # getting home Homes Rented
         homes_rented = newTable[0][1][11]
         print(f'Getting the data of home Homes Rented {i},{j}: it is equal to {homes_rented}')
-        home_data['Homes Rented'].append(homes_rented)    
+        home_data['Homes Rented'].append(homes_rented)   
+        County = driver.find_elements_by_xpath('//div[@class="col-md-7 mt-2 mb-4"]')[0].text
+        getCounty = County.split('/')[3].strip()
+        home_data['county'].append(getCounty)
         driver.quit()
     except KeyError:
         print(f'server issue with {i},{j} right now')
@@ -117,6 +121,7 @@ for i, j in zip(home_data['city'],home_data['state']):
         home_data['Homes Owned'].append('server issue, perhaps collect later')
         home_data['Housing Vacant'].append('server issue, perhaps collect later')
         home_data['Homes Rented'].append('server issue, perhaps collect later')
+        home_data['county'].append('server issue, perhaps collect later')
         driver.quit()
 
 
