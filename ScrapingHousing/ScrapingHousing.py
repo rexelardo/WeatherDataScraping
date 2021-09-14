@@ -90,7 +90,7 @@ for i, j in zip(home_data['city'],home_data['state']):
         number_of_homes = newTable[0][1][1]
         print(f'Getting the data of number of homes {i},{j}: it is equal to {number_of_homes}')
         home_data['number of homes'].append(number_of_homes)
-        except KeyError:
+    except KeyError:
             print(f'server issue with {i},{j} right now')
             home_data['number of homes'].append('server issue, perhaps collect later')
             home_data['median home age'].append('server issue, perhaps collect later')
