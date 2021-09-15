@@ -38,7 +38,7 @@ from selenium.common.exceptions import TimeoutException
 #     st.markdown(href, unsafe_allow_html=True)  
 
 
-home_data = {'city': city_scrape[180:], 'state':state_scrape[180:],'county':[], 'number of homes':[], 'median home age':[],\
+home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
            'home appr. last 10 years':[], 'Property Tax Rate':[], 'Property Taxes Paid':[], 'Homes Owned':[],\
            'Housing Vacant':[], 'Homes Rented':[]}
@@ -90,9 +90,11 @@ for i, j in zip(home_data['city'],home_data['state']):
         homes_rented = newTable[0][1][11]
         print(f'Getting the data of home Homes Rented {i},{j}: it is equal to {homes_rented}')
         home_data['Homes Rented'].append(homes_rented) 
+        #getting median home age
         median_home_age = newTable[0][1][2]
         print(f'Getting the data of median home age {i},{j}: it is equal to {median_home_age}')
         home_data['median home age'].append(median_home_age)
+        #getting number of homes
         number_of_homes = newTable[0][1][1]
         print(f'Getting the data of number of homes {i},{j}: it is equal to {number_of_homes}')
         home_data['number of homes'].append(number_of_homes)
