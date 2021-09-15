@@ -84,31 +84,18 @@ for i, j in zip(home_data['city'],home_data['state']):
         home_data['county'].append('no data')
         driver.quit()
         continue
-    newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
-    # getting number of homes
     try:
-        number_of_homes = newTable[0][1][1]
-        print(f'Getting the data of number of homes {i},{j}: it is equal to {number_of_homes}')
-        home_data['number of homes'].append(number_of_homes)
-    except KeyError:
-            print(f'server issue with {i},{j} right now')
-            home_data['number of homes'].append('server issue, perhaps collect later')
-            home_data['median home age'].append('server issue, perhaps collect later')
-            home_data['median home cost'].append('server issue, perhaps collect later')
-            home_data['home appr. last 12 months'].append('server issue, perhaps collect later')
-            home_data['home appr. last 5 years'].append('server issue, perhaps collect later')
-            home_data['home appr. last 10 years'].append('server issue, perhaps collect later')
-            home_data['Property Tax Rate'].append('server issue, perhaps collect later')
-            home_data['Property Taxes Paid'].append('server issue, perhaps collect later')
-            home_data['Homes Owned'].append('server issue, perhaps collect later')
-            home_data['Housing Vacant'].append('server issue, perhaps collect later')
-            home_data['Homes Rented'].append('server issue, perhaps collect later')
-            home_data['county'].append('server issue, perhaps collect later')
-            driver.quit()
-    try:
+        newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
+        #Putting this at the top, so that it triggers immediately a KeyError if there are problems
+        homes_rented = newTable[0][1][11]
+        print(f'Getting the data of home Homes Rented {i},{j}: it is equal to {homes_rented}')
+        home_data['Homes Rented'].append(homes_rented) 
         median_home_age = newTable[0][1][2]
         print(f'Getting the data of median home age {i},{j}: it is equal to {median_home_age}')
         home_data['median home age'].append(median_home_age)
+        number_of_homes = newTable[0][1][1]
+        print(f'Getting the data of number of homes {i},{j}: it is equal to {number_of_homes}')
+        home_data['number of homes'].append(number_of_homes)
         #getting median home cost
         median_home_cost = newTable[0][1][3]
         print(f'Getting the data of median home cost {i},{j}: it is equal to {median_home_cost}')
@@ -116,7 +103,7 @@ for i, j in zip(home_data['city'],home_data['state']):
         # getting home appr. last 12 months
         median_home_appr_12mo = newTable[0][1][4]
         print(f'Getting the data of home appr. last 12 months {i},{j}: it is equal to {median_home_appr_12mo}')
-        home_data['home appr. last 12 months'].append(median_home_age)
+        home_data['home appr. last 12 months'].append(median_home_appr_12mo)
         # getting home home appr. last 5 years
         median_home_appr_5y = newTable[0][1][5]
         print(f'Getting the data of home appr. last 5 years {i},{j}: it is equal to {median_home_appr_5y}')
@@ -141,27 +128,24 @@ for i, j in zip(home_data['city'],home_data['state']):
         housing_vacant = newTable[0][1][10]
         print(f'Getting the data of home Housing Vacant {i},{j}: it is equal to {housing_vacant}')
         home_data['Housing Vacant'].append(housing_vacant)
-        # getting home Homes Rented
-        homes_rented = newTable[0][1][11]
-        print(f'Getting the data of home Homes Rented {i},{j}: it is equal to {homes_rented}')
-        home_data['Homes Rented'].append(homes_rented)   
+        # getting home Homes Rented  
         County = driver.find_elements_by_xpath('//div[@class="col-md-7 mt-2 mb-4"]')[0].text
         getCounty = County.split('/')[3].strip()
         home_data['county'].append(getCounty)
         driver.quit()
-    except KeyError:
-        print(f'table issue with {i},{j} right now')
-        home_data['median home age'].append('table issue, perhaps collect later')
-        home_data['median home cost'].append('table issue, perhaps collect later')
-        home_data['home appr. last 12 months'].append('table issue, perhaps collect later')
-        home_data['home appr. last 5 years'].append('table issue, perhaps collect later')
-        home_data['home appr. last 10 years'].append('table issue, perhaps collect later')
-        home_data['Property Tax Rate'].append('table issue, perhaps collect later')
-        home_data['Property Taxes Paid'].append('table issue, perhaps collect later')
-        home_data['Homes Owned'].append('table issue, perhaps collect later')
-        home_data['Housing Vacant'].append('table issue, perhaps collect later')
-        home_data['Homes Rented'].append('table issue, perhaps collect later')
-        home_data['county'].append('table issue, perhaps collect later')
+    except KeyError :
+        print(f'server issue with {i},{j} right now')
+        home_data['median home age'].append('server issue, perhaps collect later')
+        home_data['median home cost'].append('server issue, perhaps collect later')
+        home_data['home appr. last 12 months'].append('server issue, perhaps collect later')
+        home_data['home appr. last 5 years'].append('server issue, perhaps collect later')
+        home_data['home appr. last 10 years'].append('server issue, perhaps collect later')
+        home_data['Property Tax Rate'].append('server issue, perhaps collect later')
+        home_data['Property Taxes Paid'].append('server issue, perhaps collect later')
+        home_data['Homes Owned'].append('server issue, perhaps collect later')
+        home_data['Housing Vacant'].append('server issue, perhaps collect later')
+        home_data['Homes Rented'].append('server issue, perhaps collect later')
+        home_data['county'].append('server issue, perhaps collect later')
         driver.quit()
 
 
