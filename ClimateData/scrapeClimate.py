@@ -64,7 +64,7 @@ for i, j in zip(climate_data['city'],climate_data['state']):
     
     # This part will be to see where the Excel is stored
     dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
-    dict_df.to_csv('housingData.csv')
+    dict_df.to_csv('climateData.csv')
     
     try:    
         driver.get(url) 
