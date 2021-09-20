@@ -1,12 +1,32 @@
 
 import pandas as pd
+
+data = pd.read_csv('cities_to_scrape.csv')
+data.columns =  data.iloc[0]
+data = data.drop(0,0)
+data
+cities_needed = []
+for i in data['City, State']:
+    cities_needed.append(i)
+
+city_scrape = []
+state_scrape = []
+for i in cities_needed:
+    i = i.replace(',','')
+    city_scrape.append(i[:-2])
+    state_scrape.append(i[-2:])
+
+
+
+
+#Starting Selenium instance
 from selenium import webdriver
+import os
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
-from selenium.common.exceptions import ElementNotSelectableException
-
 
 
 weather_data = {'city': city_scrape, 'state':state_scrape, 'county':[],'Rainfall':[],'Snowfall':[],'Precipitation':[],\
@@ -17,9 +37,20 @@ weather_data = {'city': city_scrape, 'state':state_scrape, 'county':[],'Rainfall
 
 for i, j in zip(weather_data['city'],weather_data['state']):
     url = f'https://www.bestplaces.net/climate/city/{j}/{i}'
-    driver = webdriver.Chrome()
-    driver.get(url)
+    chrome_options = Options()
+    chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("enable-features=NetworkServiceInProcess")
+    driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), options=chrome_options)
+    
+    # This part will be to see where the Excel is stored
+    dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
+    dict_df.to_csv('housingData.csv')
+    
     try:    
+        driver.get(url)
         tables = WebDriverWait(driver,5).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "table")))
     except TimeoutException:
         print(f'No data for {i},{j}')
@@ -37,6 +68,12 @@ for i, j in zip(weather_data['city'],weather_data['state']):
         continue
     newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
     try:
+        elevation = newTable[0][1][9]
+        print(f'Getting the data of Elevation for {i},{j}: it is equal to {elevation}')
+        weather_data['Elevation'].append(elevation)
+        County = driver.find_elements_by_xpath('//div[@class="col-md-7 mt-2 mb-4"]')[0].text
+        getCounty = County.split('/')[3].strip()
+        weather_data['county'].append(getCounty)
         rainfall = newTable[0][1][1]
         print(f'Getting the data of rainfall in  {i},{j}: it is equal to {rainfall}')
         weather_data['Rainfall'].append(rainfall)
@@ -69,12 +106,6 @@ for i, j in zip(weather_data['city'],weather_data['state']):
         print(f'Getting the data of UV Index for {i},{j}: it is equal to {uv}')
         weather_data['UV Index'].append(uv)
         # getting Elevation
-        elevation = newTable[0][1][9]
-        print(f'Getting the data of Elevation for {i},{j}: it is equal to {elevation}')
-        weather_data['Elevation'].append(elevation)
-        County = driver.find_elements_by_xpath('//div[@class="col-md-7 mt-2 mb-4"]')[0].text
-        getCounty = County.split('/')[3].strip()
-        weather_data['county'].append(getCounty)
         driver.quit()
     except KeyError:
         print(f'server issue with {i},{j} right now')
