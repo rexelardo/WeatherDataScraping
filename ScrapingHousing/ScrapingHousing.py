@@ -138,6 +138,7 @@ for i, j in zip(home_data['city'],home_data['state']):
     except KeyError :
         print(f'server issue with {i},{j} right now')
         home_data['median home age'].append('server issue, perhaps collect later')
+        home_data['number of homes'].append('server issue, perhaps collect later')
         home_data['median home cost'].append('server issue, perhaps collect later')
         home_data['home appr. last 12 months'].append('server issue, perhaps collect later')
         home_data['home appr. last 5 years'].append('server issue, perhaps collect later')
