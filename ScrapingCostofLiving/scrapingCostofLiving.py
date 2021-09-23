@@ -45,8 +45,8 @@ for i, j in zip(cost_of_living_data['city'],cost_of_living_data['state']):
     driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), options=chrome_options)
     
     # This part will be to see where the Excel is stored
-    dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in home_data.items() })
-    dict_df.to_csv('housingData.csv')
+    dict_df = pd.DataFrame({ key:pd.Series(value) for key, value in cost_of_living_data.items() })
+    dict_df.to_csv('costofliving.csv')
     
     try:    
         driver.get(url) 
