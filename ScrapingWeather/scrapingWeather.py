@@ -65,8 +65,9 @@ for i, j in zip(weather_data['city'],weather_data['state']):
         weather_data['Elevation'].append('no data')
         driver.quit()
         continue
-    newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
+    
     try:
+        newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
         elevation = newTable[0][1][9]
         print(f'Getting the data of Elevation for {i},{j}: it is equal to {elevation}')
         weather_data['Elevation'].append(elevation)
