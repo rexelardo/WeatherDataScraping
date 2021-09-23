@@ -63,7 +63,6 @@ for i, j in zip(weather_data['city'],weather_data['state']):
         weather_data['Comfort Index (higher=better)'].append('no data')
         weather_data['UV Index'].append('no data')
         weather_data['Elevation'].append('no data')
-        weather_data['county'].append('no data')
         driver.quit()
         continue
     newTable = pd.read_html(tables[0].get_attribute('outerHTML'))
@@ -71,9 +70,6 @@ for i, j in zip(weather_data['city'],weather_data['state']):
         elevation = newTable[0][1][9]
         print(f'Getting the data of Elevation for {i},{j}: it is equal to {elevation}')
         weather_data['Elevation'].append(elevation)
-        County = driver.find_elements_by_xpath('//div[@class="col-md-7 mt-2 mb-4"]')[0].text
-        getCounty = County.split('/')[3].strip()
-        weather_data['county'].append(getCounty)
         rainfall = newTable[0][1][1]
         print(f'Getting the data of rainfall in  {i},{j}: it is equal to {rainfall}')
         weather_data['Rainfall'].append(rainfall)
@@ -118,5 +114,4 @@ for i, j in zip(weather_data['city'],weather_data['state']):
         weather_data['Comfort Index (higher=better)'].append('server issue, perhaps collect later')
         weather_data['UV Index'].append('server issue, perhaps collect later')
         weather_data['Elevation'].append('server issue, perhaps collect later')
-        weather_data['county'].append('server issue, perhaps collect later')
         driver.quit()

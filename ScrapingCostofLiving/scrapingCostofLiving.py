@@ -98,10 +98,6 @@ for i, j in zip(cost_of_living_data['city'],cost_of_living_data['state']):
         misc = newTable[0][1][8]
         print(f'Getting the data misc {i},{j}: it is equal to {misc}')
         cost_of_living_data['Miscellaneous'].append(misc)
-        County = driver.find_elements_by_xpath('//div[@class="col-md-7 mt-2 mb-4"]')[0].text
-        getCounty = County.split('/')[3].strip()
-        weather_data['county'].append(getCounty)
-        driver.quit()
     except KeyError:
         print(f'server issue with {i},{j} right now')
         cost_of_living_data['Overall'].append('server issue right now, maybe try later')
@@ -112,5 +108,4 @@ for i, j in zip(cost_of_living_data['city'],cost_of_living_data['state']):
         cost_of_living_data['Utilities'].append('server issue right now, maybe try later')
         cost_of_living_data['Transportation'].append('server issue right now, maybe try later')
         cost_of_living_data['Miscellaneous'].append('server issue right now, maybe try later')
-        cost_of_living_data['county'].append('server issue right now, maybe try later')
         driver.quit()
