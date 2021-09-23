@@ -29,7 +29,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 
 
-weather_data = {'city': city_scrape, 'state':state_scrape, 'county':[],'Rainfall':[],'Snowfall':[],'Precipitation':[],\
+weather_data = {'city': city_scrape[22:], 'state':state_scrape[22:], 'county':[],'Rainfall':[],'Snowfall':[],'Precipitation':[],\
            'Sunny':[],'Avg. July High':[],'Avg. Jan. Low':[], 'Comfort Index (higher=better)':[],'UV Index':[],\
            'Elevation':[]}
 
