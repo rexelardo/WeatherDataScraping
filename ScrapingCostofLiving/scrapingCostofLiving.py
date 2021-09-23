@@ -98,6 +98,7 @@ for i, j in zip(cost_of_living_data['city'],cost_of_living_data['state']):
         misc = newTable[0][1][8]
         print(f'Getting the data misc {i},{j}: it is equal to {misc}')
         cost_of_living_data['Miscellaneous'].append(misc)
+        driver.quit()
     except KeyError:
         print(f'server issue with {i},{j} right now')
         cost_of_living_data['Overall'].append('server issue right now, maybe try later')
