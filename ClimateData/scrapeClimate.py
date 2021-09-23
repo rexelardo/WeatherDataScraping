@@ -512,7 +512,7 @@ for i, j in zip(climate_data['city'],climate_data['state']):
         climate_data['DecSnowyDays'].append('server issue right now, maybe try later')
         driver.quit()
     except KeyError:
-                print(f'server issue with {i},{j} right now')
+        print(f'server issue with {i},{j} right now')
         climate_data['JanHigh'].append('server issue right now, maybe try later')
         climate_data['JanLow'].append('server issue right now, maybe try later')
         climate_data['FebHigh'].append('server issue right now, maybe try later')
