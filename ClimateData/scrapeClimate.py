@@ -23,7 +23,7 @@ for i in cities_needed:
 
 
 
-climate_data = {'city': city_scrape[10287:], 'state':state_scrape[10287:],'JanHigh':[],'JanLow':[],'FebHigh':[],'FebLow':[],\
+climate_data = {'city': city_scrape[13905:], 'state':state_scrape[13905:],'JanHigh':[],'JanLow':[],'FebHigh':[],'FebLow':[],\
                       'MarHigh':[], 'MarLow':[], 'AprHigh':[], 'AprLow':[],\
                'MayHigh':[], 'MayLow':[], 'JunHigh':[], 'JunLow':[], 'JulHigh':[], 'JulLow':[], 'AugHigh':[], 'AugLow':[],\
                'SepHigh':[], 'SepLow':[], 'OctHigh':[], 'OctLow':[],\
