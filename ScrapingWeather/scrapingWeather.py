@@ -32,7 +32,7 @@ from selenium.common.exceptions import TimeoutException
 weather_data = {'city': city_scrape[6658:], 'state':state_scrape[6658:], 'county':[],'Rainfall':[],'Snowfall':[],'Precipitation':[],\
            'Sunny':[],'Avg. July High':[],'Avg. Jan. Low':[], 'Comfort Index (higher=better)':[],'UV Index':[],\
            'Elevation':[]}
-
+ 
 
 
 for i, j in zip(weather_data['city'],weather_data['state']):
