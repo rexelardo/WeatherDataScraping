@@ -21,7 +21,7 @@ for i in cities_needed:
 
 
 
-cost_of_living_data = {'city': city_scrape[10627:], 'state':state_scrape[10627:],'county':[], 'Overall':[],'Grocery':[],'Health':[],\
+cost_of_living_data = {'city': city_scrape[12066:], 'state':state_scrape[12066:],'county':[], 'Overall':[],'Grocery':[],'Health':[],\
                        'Housing':[],\
                       'Median Home Cost':[], 'Utilities':[], 'Transportation':[], 'Miscellaneous':[]}
 
