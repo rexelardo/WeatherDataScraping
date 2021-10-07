@@ -1,21 +1,9 @@
 
 import pandas as pd
 
-data = pd.read_csv('cities_to_scrape.csv')
-data.columns =  data.iloc[0]
-data = data.drop(0,0)
-data
-cities_needed = []
-for i in data['City, State']:
-    cities_needed.append(i)
-
-city_scrape = []
-state_scrape = []
-for i in cities_needed:
-    i = i.replace(',','')
-    city_scrape.append(i[:-2])
-    state_scrape.append(i[-2:])
-
+data = pd.read_csv('rescraping_weather.csv')
+city_scrape = data['city'].to_list()
+state_scrape = data['state'].to_list()
 
 
 
@@ -29,7 +17,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 
 
-weather_data = {'city': city_scrape[14164:], 'state':state_scrape[14164:], 'county':[],'Rainfall':[],'Snowfall':[],'Precipitation':[],\
+weather_data = {'city': city_scrape, 'state':state_scrape, 'county':[],'Rainfall':[],'Snowfall':[],'Precipitation':[],\
            'Sunny':[],'Avg. July High':[],'Avg. Jan. Low':[], 'Comfort Index (higher=better)':[],'UV Index':[],\
            'Elevation':[]}
  

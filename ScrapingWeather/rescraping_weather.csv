@@ -1,0 +1,3090 @@
+,city,state
+28,Ackley ,IA
+30,Acme ,PA
+32,Acosta ,PA
+41,Adah ,PA
+49,Adams Basin ,NY
+52,Adamstown ,MD
+64,Adelphia ,NJ
+66,Adger ,AL
+67,Adkins ,TX
+68,Adolph ,MN
+70,Adrian ,PA
+72,Adrian ,WV
+74,Advance ,MO
+78,Afton ,NY
+79,Afton ,TN
+80,Afton ,VA
+82,Agate ,CO
+83,Agawam ,MA
+87,Airville ,PA
+102,Alamo ,CA
+108,Albany ,GA
+114,Albany ,WI
+118,Albert City ,IA
+122,Albertson ,NC
+130,Albion ,NY
+135,Alburnett ,IA
+139,Alcove ,NY
+145,Aldie ,VA
+149,Alexander ,IL
+150,Alexander ,NC
+163,Alexis ,NC
+165,Alger ,MI
+174,Alix ,AR
+176,Alleene ,AR
+189,Allenton ,MI
+201,Allston ,MA
+206,Almo ,KY
+209,Alna ,ME
+211,Alpha ,OH
+214,Alpine ,AL
+217,Alpine ,UT
+218,Alplaus ,NY
+230,Alto ,MI
+233,Alton Bay ,NH
+238,Altura ,MN
+240,Alum Bank ,PA
+243,Alvada ,OH
+244,Alvadore ,OR
+247,Alvaton ,KY
+248,Alverton ,PA
+249,Alvin ,IL
+251,Alviso ,CA
+255,Am Qui ,TN
+260,Amawalk ,NY
+276,Amesbury ,MA
+280,Amherst ,SD
+283,Amherst Junction ,WI
+284,Amissville ,VA
+285,Amity ,PA
+286,Amityville ,NY
+288,Amory ,MS
+291,Amston ,CT
+292,Anaconda ,MT
+297,Anchorville ,MI
+313,Andover ,SD
+315,Andreas ,PA
+316,Andrew ,IA
+319,Andrews Air Force Base ,MD
+324,Anita ,PA
+335,Annapolis Junction ,MD
+336,Annawan ,IL
+341,Anson ,ME
+348,Anthony ,FL
+353,Antioch ,TN
+355,Antwerp ,IN
+366,Apple Creek ,OH
+370,Appleton ,NY
+373,Apulia Station ,NY
+374,Aquasco ,MD
+375,Aquashicola ,PA
+380,Arbon ,ID
+381,Arcade ,NY
+394,Ardara ,PA
+395,Arden ,NC
+399,Ardsley on Hudson ,NY
+403,Argenta ,IL
+406,Argyle ,WI
+411,Ark ,VA
+414,Arkansaw ,WI
+437,Armstrong ,IL
+438,Armuchee ,GA
+439,Arnaudville ,LA
+443,Arnoldsburg ,WV
+445,Aroda ,VA
+448,Arrington ,TN
+454,Arthurdale ,WV
+456,Arvonia ,VA
+460,Ash ,NC
+487,Ashmore ,IL
+491,Ashton ,MD
+493,Ashton ,WV
+499,Assonet ,MA
+503,Astor ,FL
+504,Astoria ,IL
+505,Astoria ,NY
+506,Astoria ,SD
+509,Atascosa ,TX
+511,Atco ,NJ
+514,Athens ,GA
+516,Athens ,ME
+518,Athens ,NY
+523,Athens ,PA
+530,Atkinson ,IL
+532,Atlanta ,GA
+535,Atlanta ,MI
+536,Atlanta ,NY
+566,Auburn ,IL
+594,Ault ,CO
+625,Avenel ,NJ
+636,Avoca ,IA
+648,Avondale ,AZ
+683,Bainbridge ,OH
+700,Baldwin ,NY
+705,Baldwinville ,MA
+708,Ball Ground ,GA
+721,Bancroft ,MI
+724,Bancroft ,NE
+742,Bargersville ,IN
+759,Barnhart ,MO
+762,Barnstead ,NH
+862,Bear River City ,UT
+948,Belleville ,NJ
+953,Bellevue ,IA
+974,Belmont ,MA
+987,Belton ,MO
+990,Beltsville ,MD
+1008,Bennington ,NH
+1091,Bethel ,MN
+1147,Biloxi ,MS
+1161,Bishop ,CA
+1247,Blountstown ,FL
+2877,Corsica ,PA
+2905,Cottonwood ,AL
+2913,Country Club Hills ,IL
+2985,Creve Coeur ,IL
+2990,Crockett ,CA
+3089,Cynthiana ,KY
+3094,Dacula ,GA
+3100,Dahlonega ,GA
+3103,Dakota ,IL
+3199,Dayton ,KY
+3207,Dayton ,VA
+3213,De Beque ,CO
+3237,Dearing ,GA
+4906,Gilbertsville ,KY
+4980,Glenbeulah ,WI
+4990,Glendive ,MT
+4999,Glenmora ,LA
+5005,Glenrock ,WY
+5026,Gloucester City ,NJ
+5027,Gloucester Point ,VA
+5034,Goddard ,KS
+5070,Gordon ,GA
+5170,Grantville ,GA
+5378,Hackett ,AR
+5446,Hampstead ,NC
+5470,Hanna City ,IL
+5497,Harborcreek ,PA
+5513,Harlem ,GA
+5589,Hartville ,OH
+5629,Havana ,IL
+5795,Higginsville ,MO
+5816,Highlands ,NJ
+5866,Hinesville ,GA
+6158,Hyrum ,UT
+6159,Hysham ,MT
+6184,Incline Village ,NV
+6221,Intercourse ,PA
+6252,Irvine ,KY
+6275,Isle ,MN
+6384,Jenison ,MI
+6496,Kaysville ,UT
+6608,Killeen ,TX
+6655,Kingston ,TN
+8612,Morton ,PA
+8660,Mount Holly Springs ,PA
+8769,Murray ,NE
+8810,Narrowsburg ,NY
+9025,New Riegel ,OH
+9053,New Wilmington ,PA
+9063,Newark ,IL
+9207,North Andover ,MA
+9236,North Charleston ,SC
+9296,North Prairie ,WI
+9305,North Salem ,NH
+9308,North Sandwich ,NH
+9309,North Scituate ,RI
+9314,North Street ,MI
+9315,North Sutton ,NH
+9317,North Truro ,MA
+9318,North Vassalboro ,ME
+9323,North Waterboro ,ME
+9325,North Weymouth ,MA
+9326,North Windham ,CT
+9330,Northampton ,PA
+9334,Northeast Harbor ,ME
+9336,Northfield ,CT
+9341,Northford ,CT
+9345,Northridge ,CA
+9350,Northville ,NY
+9351,Northville ,SD
+9376,Nova ,OH
+9378,Novelty ,OH
+9382,Nunda ,SD
+9383,Nunica ,MI
+9385,Nursery ,TX
+9388,O Brien ,OR
+9389,O Fallon ,IL
+9400,Oak Hill ,WV
+9408,Oak Ridge ,NJ
+9409,Oak Ridge ,PA
+9416,Oakdale ,CT
+9418,Oakfield ,TN
+9420,Oakford ,IN
+9428,Oakland ,MI
+9430,Oakland ,RI
+9435,Oakland Gardens ,NY
+9436,Oakland Mills ,PA
+9443,Oaks ,PA
+9454,Ocean Bluff ,MA
+9455,Ocean City ,NJ
+9460,Ocean Park ,ME
+9463,Ocean View ,NJ
+9467,Oceanville ,NJ
+9469,Ochopee ,FL
+9470,Ocklawaha ,FL
+9472,Ocoee ,TN
+9489,Offutt A F B ,NE
+9508,Oilville ,VA
+9511,Okatie ,SC
+9512,Okauchee ,WI
+9514,Okeana ,OH
+9521,Olalla ,WA
+9522,Olanta ,PA
+9529,Old Chatham ,NY
+9530,Old Fort ,TN
+9532,Old Hickory ,TN
+9538,Old Zionsville ,PA
+9540,Oldfield ,MO
+9544,Oldwick ,NJ
+9548,Olin ,NC
+9551,Olivebridge ,NY
+9552,Oliveburg ,PA
+9565,Ona ,WV
+9570,Onego ,WV
+9574,Onemo ,VA
+9577,Ono ,PA
+9584,Ontario Center ,NY
+9589,Opa Locka ,FL
+9592,Ophiem ,IL
+9594,Oran ,IA
+9599,Orange ,NJ
+9603,Orange Lake ,FL
+9614,Orefield ,PA
+9619,Oregonia ,OH
+9632,Orkney Springs ,VA
+9634,Orland ,ME
+9637,Orlando East ,FL
+9638,Orlando West ,FL
+9648,Orrs Island ,ME
+9653,Ortley ,SD
+9659,Osage ,WV
+9666,Osceola ,PA
+9675,Osseo ,MI
+9681,Osteen ,FL
+9682,Osterburg ,PA
+9683,Osterville ,MA
+9692,Otis ,LA
+9694,Otis Orchards ,WA
+9695,Otisco ,IN
+9698,Otley ,IA
+9706,Ottsville ,PA
+9709,Outing ,MN
+9710,Ovalo ,TX
+9733,Oxford ,FL
+9741,Oxford ,NY
+9744,Oxford ,WI
+9755,Ozona ,FL
+9759,Pacoima ,CA
+9763,Paeonian Springs ,VA
+9765,Paint Lick ,KY
+9771,Palermo ,ME
+9775,Palestine ,WV
+9777,Palisades ,NY
+9779,Palm ,PA
+9789,Palmer ,MA
+9795,Palmyra ,ME
+9800,Palmyra ,PA
+9809,Palos Verdes Peninsula ,CA
+9818,Panhandle ,TX
+9820,Panorama City ,CA
+9836,Paris ,MI
+9837,Paris ,OH
+9843,Park City ,UT
+9845,Park Hall ,MD
+9854,Parker Ford ,PA
+9855,Parkers Lake ,KY
+9860,Parkhill ,PA
+9863,Parksville ,NY
+9864,Parkton ,MD
+9866,Parlin ,NJ
+9872,Paron ,AR
+9875,Parsippany ,NJ
+9881,Partlow ,VA
+9902,Pattersonville ,NY
+9904,Patuxent River ,MD
+9906,Paulding ,IN
+9907,Pauline ,SC
+9921,Paxinos ,PA
+9926,Payne ,IN
+9927,Payneville ,KY
+9932,Peace Dale ,RI
+9936,Peapack ,NJ
+9937,Pearcy ,AR
+9944,Peck ,KS
+9946,Pecks Mill ,WV
+9949,Peculiar ,MO
+9956,Pekin ,IN
+9959,Pelham ,NC
+9965,Pell Lake ,WI
+9969,Pemaquid ,ME
+9982,Pendleton ,NC
+9984,Pendleton ,TX
+9985,Pendroy ,MT
+9988,Penfield ,PA
+9991,Penn ,PA
+9992,Penn Laird ,VA
+9993,Penn Run ,PA
+9995,Pennellville ,NY
+10001,Penns Park ,PA
+10006,Pennsylvania Furnace ,PA
+10007,Penobscot ,ME
+10018,Pepin ,WI
+10027,Perkinsville ,NY
+10028,Perkiomenville ,PA
+10036,Perry ,NY
+10039,Perry Park ,KY
+10049,Peru ,IA
+10060,Petersburg ,NY
+10061,Petersburg ,OH
+10075,Peytona ,WV
+10076,Pfafftown ,NC
+10092,Philpot ,KY
+10101,Picabo ,ID
+10102,Picatinny Arsenal ,NJ
+10103,Picher ,OK
+10107,Pickett ,WI
+10110,Pickwick Dam ,TN
+10137,Pilot ,VA
+10147,Pine Brook ,NJ
+10150,Pine City ,NY
+10151,Pine Grove ,LA
+10153,Pine Island ,MN
+10154,Pine Island ,NY
+10158,Pine Meadow ,CT
+10160,Pine Mountain Valley ,GA
+10171,Pineland ,SC
+10174,Pinetop ,AZ
+10178,Pineville ,PA
+10179,Piney Flats ,TN
+10181,Pingree ,ID
+10186,Pinson ,TN
+10187,Pinto ,MD
+10190,Pipersville ,PA
+10194,Pisgah Forest ,NC
+10196,Pitkin ,LA
+10206,Pittsfield ,ME
+10211,Pittstown ,NJ
+10212,Pittsview ,AL
+10217,Placitas ,NM
+10228,Plainfield ,WI
+10230,Plainsboro ,NJ
+10241,Plano ,IL
+10245,Plantsville ,CT
+10249,Platteville ,CO
+10256,Pleasant Grove ,AL
+10257,Pleasant Grove ,CA
+10259,Pleasant Hall ,PA
+10266,Pleasant Lake ,IN
+10267,Pleasant Lake ,MI
+10273,Pleasant Valley ,IA
+10274,Pleasant Valley ,VA
+10282,Pleasantville ,PA
+10285,Plover ,WI
+10286,Pluckemin ,NJ
+10292,Plymouth ,FL
+10305,Pocahontas ,IL
+10318,Point Pleasant ,PA
+10319,Point Pleasant ,WV
+10324,Polk ,PA
+10336,Pomfret Center ,CT
+10341,Pompeys Pillar ,MT
+10343,Pompton Plains ,NJ
+10345,Ponca City ,OK
+10349,Ponte Vedra ,FL
+10350,Ponte Vedra Beach ,FL
+10356,Poolville ,TX
+10357,Pope Army Airfield ,NC
+10360,Poquonock ,CT
+10366,Port Barre ,LA
+10367,Port Byron ,NY
+10372,Port Crane ,NY
+10375,Port Elizabeth ,NJ
+10378,Port Haywood ,VA
+10381,Port Jefferson ,NY
+10391,Port o Connor ,TX
+10394,Port Penn ,DE
+10396,Port Republic ,MD
+10398,Port Republic ,VA
+10401,Port Royal ,VA
+10403,Port Saint Lucie ,FL
+10405,Port Tobacco ,MD
+10406,Port Trevorton ,PA
+10412,Portage ,PA
+10414,Portageville ,NY
+10415,Porter ,TX
+10416,Porter Corners ,NY
+10417,Porter Ranch ,CA
+10429,Portsmouth ,RI
+10443,Pottersville ,NJ
+10449,Poughquag ,NY
+10452,Pounding Mill ,VA
+10456,Powell ,TN
+10458,Powell Butte ,OR
+10460,Powers Lake ,WI
+10472,Prairieville ,LA
+10475,Pratts ,VA
+10479,Prentice ,WI
+10481,Prescott ,AR
+10483,Presque Isle ,MI
+10484,Presto ,PA
+10490,Prestonsburg ,KY
+10492,Pride ,LA
+10493,Prides Crossing ,MA
+10496,Princess Anne ,MD
+10498,Princeton ,IL
+10501,Princeton ,LA
+10512,Proctor ,MT
+10513,Proctor ,WV
+10515,Prole ,IA
+10522,Prospect Harbor ,ME
+10523,Prospect Heights ,IL
+10526,Prosperity ,PA
+10527,Prosperity ,SC
+10530,Providence ,NC
+10534,Providence Forge ,VA
+10536,Provo ,UT
+10538,Pryor ,OK
+10541,Pulaski ,TN
+10544,Pulaski ,PA
+10545,Pullman ,MI
+10550,Purcellville ,VA
+10551,Purchase ,NY
+10552,Purdys ,NY
+10553,Purgitsville ,WV
+10554,Purmela ,TX
+10558,Quaker Hill ,CT
+10564,Quecreek ,PA
+10565,Queen ,PA
+10568,Queens Village ,NY
+10571,Quentin ,PA
+10572,Quicksburg ,VA
+10580,Quinton ,AL
+10582,Quinton ,VA
+10586,Quogue ,NY
+10602,Ralston ,PA
+10607,Ramsay ,MT
+10610,Ramsey ,IN
+10617,Rancocas ,NJ
+10629,Randolph Center ,VT
+10637,Raphine ,VA
+10640,Rapidan ,VA
+10642,Rappahannock Academy ,VA
+10657,Ray ,OH
+10666,Raymond ,SD
+10670,Raynham Center ,MA
+10672,Rayville ,MO
+10677,Reading ,MN
+10680,Reagan ,TN
+10684,Rector ,PA
+10687,Red Creek ,NY
+10690,Red House ,WV
+10703,Redford ,MI
+10720,Reelsville ,IN
+10735,Remlap ,AL
+10738,Remsenburg ,NY
+10739,Remus ,MI
+10740,Renfrew ,PA
+10741,Renner ,SD
+10743,Reno ,PA
+10752,Rescue ,CA
+10753,Rescue ,VA
+10754,Reseda ,CA
+10757,Reva ,VA
+10762,Rex ,GA
+10764,Rexford ,NY
+10765,Rexmont ,PA
+10774,Rhoadesville ,VA
+10776,Rhodes ,MI
+10779,Rib Lake ,WI
+10781,Rice ,VA
+10788,Richeyville ,PA
+10793,Richfield ,WI
+10794,Richfield Springs ,NY
+10798,Richland ,NJ
+10799,Richland ,PA
+10819,Richville ,MI
+10824,Ridge ,MD
+10827,Ridgedale ,MO
+10844,Ridgewood ,NY
+10845,Ridgway ,PA
+10858,Rineyville ,KY
+10860,Ringgold ,PA
+10861,Ringgold ,VA
+10863,Ringoes ,NJ
+10879,Rising Fawn ,GA
+10892,Riverdale ,MD
+10893,Riverdale ,MI
+10906,Riverside ,RI
+10911,Riverton ,WV
+10914,Rives Junction ,MI
+10916,Rixeyville ,VA
+10917,Rixford ,PA
+10925,Roaring Branch ,PA
+10936,Robertsdale ,PA
+10937,Robertsville ,MO
+10943,Robinsonville ,MS
+10946,Rochdale ,MA
+10948,Rochelle ,VA
+10961,Rochester Gates ,NY
+10963,Rochester Mills ,PA
+10965,Rock City Falls ,NY
+10976,Rock Spring ,GA
+10979,Rock Tavern ,NY
+10983,Rockaway Park ,NY
+10985,Rockfall ,CT
+10986,Rockfield ,IN
+10987,Rockfield ,KY
+10994,Rockhill Furnace ,PA
+10996,Rockland ,DE
+11004,Rockport ,WV
+11006,Rockton ,PA
+11007,Rockvale ,TN
+11010,Rockville ,RI
+11011,Rockville ,VA
+11019,Rocky Face ,GA
+11022,Rocky Mount ,MO
+11027,Rocky Ridge ,MD
+11031,Rodney ,MI
+11056,Rome ,IL
+11062,Romney ,IN
+11090,Rosedale ,NY
+11091,Rosedale ,VA
+11098,Rosemont ,NJ
+11111,Roslindale ,MA
+11123,Rossville ,PA
+11128,Rotterdam Junction ,NY
+11147,Roxbury ,MA
+11148,Roxbury ,PA
+11149,Roxbury Crossing ,MA
+11152,Royal ,AR
+11161,Rozet ,WY
+11169,Ruffs Dale ,PA
+11170,Rumford ,RI
+11176,Rural Ridge ,PA
+11179,Rush ,KY
+11181,Rushland ,PA
+11198,Russellville ,TN
+11204,Ruth ,MI
+11205,Ruther Glen ,VA
+11212,Rutland ,SD
+11215,Rydal ,GA
+11219,Rye Beach ,NH
+11225,Sabinsville ,PA
+11235,Sadsburyville ,PA
+11240,Sagamore ,PA
+11241,Sagamore Beach ,MA
+11244,Sagle ,ID
+11245,Saint Albans ,ME
+11246,Saint Albans ,MO
+11247,Saint Albans ,NY
+11248,Saint Albans ,VT
+11249,Saint Albans ,WV
+11250,Saint Albans Bay ,VT
+11251,Saint Amant ,LA
+11252,Saint Anne ,IL
+11253,Saint Anthony ,IA
+11254,Saint Anthony ,ID
+11255,Saint Anthony ,IN
+11256,Saint Augustine ,FL
+11257,Saint Augustine ,IL
+11258,Saint Benedict ,PA
+11259,Saint Bonifacius ,MN
+11260,Saint Charles ,IA
+11261,Saint Charles ,IL
+11262,Saint Charles ,MI
+11263,Saint Charles ,MN
+11264,Saint Charles ,MO
+11265,Saint Clair ,MI
+11266,Saint Clair ,MN
+11267,Saint Clair ,MO
+11268,Saint Clair Shores ,MI
+11269,Saint Clairsville ,OH
+11270,Saint Cloud ,FL
+11271,Saint Cloud ,MN
+11272,Saint Cloud ,WI
+11273,Saint David ,IL
+11274,Saint Francis ,MN
+11275,Saint Francis ,SD
+11276,Saint Francis ,WI
+11277,Saint George ,KS
+11278,Saint Georges ,DE
+11279,Saint Hedwig ,TX
+11280,Saint Helen ,MI
+11281,Saint Helena Island ,SC
+11282,Saint Henry ,OH
+11283,Saint Ignace ,MI
+11284,Saint Ignatius ,MT
+11285,Saint Inigoes ,MD
+11286,Saint Jacob ,IL
+11287,Saint James ,MN
+11288,Saint James ,NY
+11289,Saint James City ,FL
+11290,Saint Joe ,IN
+11291,Saint John ,IN
+11292,Saint Johns ,AZ
+11293,Saint Johns ,FL
+11294,Saint Johns ,MI
+11295,Saint Johnsville ,NY
+11296,Saint Joseph ,IL
+11297,Saint Joseph ,MN
+11298,Saint Joseph ,MO
+11299,Saint Joseph ,MI
+11300,Saint Landry ,LA
+11301,Saint Leonard ,MD
+11302,Saint Libory ,IL
+11303,Saint Louis ,MI
+11304,Saint Louis ,MO
+11305,Saint Louisville ,OH
+11306,Saint Marks ,FL
+11307,Saint Martinville ,LA
+11308,Saint Marys ,IA
+11309,Saint Marys ,KS
+11310,Saint Marys ,OH
+11311,Saint Marys ,PA
+11312,Saint Marys ,WV
+11313,Saint Marys ,GA
+11314,Saint Marys City ,MD
+11315,Saint Matthews ,SC
+11316,Saint Meinrad ,IN
+11317,Saint Michael ,MN
+11318,Saint Michael ,PA
+11319,Saint Michaels ,MD
+11320,Saint Onge ,SD
+11321,Saint Paris ,OH
+11322,Saint Paul ,IN
+11323,Saint Paul ,MN
+11324,Saint Paul Park ,MN
+11325,Saint Pauls ,NC
+11326,Saint Peter ,MN
+11327,Saint Peters ,MO
+11328,Saint Petersburg ,FL
+11329,Saint Petersburg ,PA
+11330,Saint Regis ,MT
+11331,Saint Simons Island ,GA
+11332,Saint Thomas ,MO
+11333,Saint Thomas ,PA
+11337,Salem ,AL
+11349,Salem ,WI
+11352,Salfordville ,PA
+11362,Salisbury ,PA
+11366,Salona ,PA
+11370,Salter Path ,NC
+11378,Samaria ,MI
+11403,San Pedro ,CA
+11407,San Ysidro ,CA
+11412,Sand Creek ,MI
+11418,Sanderson ,FL
+11429,Sandy Hook ,CT
+11430,Sandy Hook ,VA
+11432,Sandy Point ,ME
+11434,Sandy Spring ,MD
+11454,Santa Rosa Beach ,FL
+11457,Santo ,TX
+11459,Sarah ,MS
+11466,Saratoga ,AR
+11475,Sargentville ,ME
+11477,Sarver ,PA
+11480,Satsuma ,FL
+11490,Sault Sainte Marie ,MI
+11491,Saunderstown ,RI
+11493,Sauquoit ,NY
+11504,Sawyer ,MI
+11513,Scandinavia ,WI
+11518,Scenery Hill ,PA
+11524,Schenley ,PA
+11531,Schnellville ,IN
+11532,Schodack Landing ,NY
+11536,Schooleys Mountain ,NJ
+11537,Schroon Lake ,NY
+11543,Scipio ,IN
+11546,Scotland ,MD
+11551,Scott ,IN
+11553,Scott Air Force Base ,IL
+11555,Scott Depot ,WV
+11558,Scotts ,MI
+11563,Scottsmoor ,FL
+11573,Sea Island ,GA
+11579,Seabrook ,SC
+11582,Seaford ,VA
+11585,Seal Cove ,ME
+11586,Seal Harbor ,ME
+11587,Seale ,AL
+11588,Sealevel ,NC
+11591,Sears ,MI
+11593,Searsmont ,ME
+11594,Searsport ,ME
+11601,Sebasco Estates ,ME
+11611,Sedalia ,IN
+11614,Sedalia ,OH
+11617,Sedgwick ,ME
+11618,Sedro Woolley ,WA
+11627,Selkirk ,NY
+11635,Seminole ,AL
+11638,Seminole ,PA
+11650,Sergeantsville ,NJ
+11651,Seth ,WV
+11660,Seward ,IL
+11664,Sewell ,NJ
+11672,Shacklefords ,VA
+11675,Shady Grove ,PA
+11680,Shaftsburg ,MI
+11687,Shannock ,RI
+11695,Sharon ,WI
+11696,Sharon Center ,OH
+11705,Shawmut ,ME
+11709,Shawville ,PA
+11728,Shelbyville ,MI
+11731,Sheldon ,SC
+11750,Sherburne ,NY
+11763,Sherman Oaks ,CA
+11764,Shermans Dale ,PA
+11768,Sherrills Ford ,NC
+11771,Sherwood ,IN
+11774,Sherwood ,WI
+11778,Shiloh ,TN
+11782,Shipman ,IL
+11789,Shirley ,IL
+11809,Shrewsbury ,PA
+11817,Sicklerville ,NJ
+11823,Sidney ,NY
+14164,Woolrich ,PA
+14194,Wycombe ,PA
+14195,Wye Mills ,MD
+14201,Wynnewood ,PA
+14216,Yantic ,CT
+14221,Yatesboro ,PA
+14223,Yawkey ,WV
+14229,Yoder ,IN
+14238,York Beach ,ME
+14241,York New Salem ,PA
+14243,Yorklyn ,DE
+14252,Young America ,IN
+14255,Youngstown ,FL
+14266,Yuma ,TN
+14283,Zionsville ,PA
+14286,Zullinger ,PA
+14289,Zuni ,VA
+830,Bay Saint Louis ,MS
+3734,East Saint Louis ,IL
+4975,Glen Saint Mary ,FL
+7768,Marine on Saint Croix ,MN
+10403,Port Saint Lucie ,FL
+11245,Saint Albans ,ME
+11246,Saint Albans ,MO
+11247,Saint Albans ,NY
+11248,Saint Albans ,VT
+11249,Saint Albans ,WV
+11250,Saint Albans Bay ,VT
+11251,Saint Amant ,LA
+11252,Saint Anne ,IL
+11253,Saint Anthony ,IA
+11254,Saint Anthony ,ID
+11255,Saint Anthony ,IN
+11256,Saint Augustine ,FL
+11257,Saint Augustine ,IL
+11258,Saint Benedict ,PA
+11259,Saint Bonifacius ,MN
+11260,Saint Charles ,IA
+11261,Saint Charles ,IL
+11262,Saint Charles ,MI
+11263,Saint Charles ,MN
+11264,Saint Charles ,MO
+11265,Saint Clair ,MI
+11266,Saint Clair ,MN
+11267,Saint Clair ,MO
+11268,Saint Clair Shores ,MI
+11269,Saint Clairsville ,OH
+11270,Saint Cloud ,FL
+11271,Saint Cloud ,MN
+11272,Saint Cloud ,WI
+11273,Saint David ,IL
+11274,Saint Francis ,MN
+11275,Saint Francis ,SD
+11276,Saint Francis ,WI
+11277,Saint George ,KS
+11278,Saint Georges ,DE
+11279,Saint Hedwig ,TX
+11280,Saint Helen ,MI
+11281,Saint Helena Island ,SC
+11282,Saint Henry ,OH
+11283,Saint Ignace ,MI
+11284,Saint Ignatius ,MT
+11285,Saint Inigoes ,MD
+11286,Saint Jacob ,IL
+11287,Saint James ,MN
+11288,Saint James ,NY
+11289,Saint James City ,FL
+11290,Saint Joe ,IN
+11291,Saint John ,IN
+11292,Saint Johns ,AZ
+11293,Saint Johns ,FL
+11294,Saint Johns ,MI
+11295,Saint Johnsville ,NY
+11296,Saint Joseph ,IL
+11297,Saint Joseph ,MN
+11298,Saint Joseph ,MO
+11299,Saint Joseph ,MI
+11300,Saint Landry ,LA
+11301,Saint Leonard ,MD
+11302,Saint Libory ,IL
+11303,Saint Louis ,MI
+11304,Saint Louis ,MO
+11305,Saint Louisville ,OH
+11306,Saint Marks ,FL
+11307,Saint Martinville ,LA
+11308,Saint Marys ,IA
+11309,Saint Marys ,KS
+11310,Saint Marys ,OH
+11311,Saint Marys ,PA
+11312,Saint Marys ,WV
+11313,Saint Marys ,GA
+11314,Saint Marys City ,MD
+11315,Saint Matthews ,SC
+11316,Saint Meinrad ,IN
+11317,Saint Michael ,MN
+11318,Saint Michael ,PA
+11319,Saint Michaels ,MD
+11320,Saint Onge ,SD
+11321,Saint Paris ,OH
+11322,Saint Paul ,IN
+11323,Saint Paul ,MN
+11324,Saint Paul Park ,MN
+11325,Saint Pauls ,NC
+11326,Saint Peter ,MN
+11327,Saint Peters ,MO
+11328,Saint Petersburg ,FL
+11329,Saint Petersburg ,PA
+11330,Saint Regis ,MT
+11331,Saint Simons Island ,GA
+11332,Saint Thomas ,MO
+11333,Saint Thomas ,PA
+11490,Sault Sainte Marie ,MI
+12068,South Saint Paul ,MN
+0,Aaronsburg ,PA
+6,Abell ,MD
+16,Abingdon ,MD
+20,Abington ,CT
+553,Attica ,NY
+556,Attleboro Falls ,MA
+559,Atwood ,IN
+579,Auburndale ,MA
+589,Augusta ,NJ
+591,Augusta ,GA
+592,Augusta ,WV
+599,Aurora ,ME
+612,Austin ,KY
+618,Austinville ,IA
+626,Avenue ,MD
+628,Avery Island ,LA
+632,Avoca ,MI
+644,Avon by the Sea ,NJ
+647,Avondale ,AL
+655,Axtell ,TX
+656,Axton ,VA
+659,Aylett ,VA
+668,Bacova ,VA
+675,Bahama ,NC
+676,Bailey ,MI
+678,Bailey Island ,ME
+679,Baileys Harbor ,WI
+680,Baileyville ,IL
+682,Bainbridge ,NY
+689,Baker ,FL
+692,Baker ,WV
+695,Bala Cynwyd ,PA
+703,Baldwin Place ,NY
+710,Ballston Lake ,NY
+719,Banco ,VA
+729,Banner ,WY
+731,Bannister ,MI
+733,Bar Harbor ,ME
+734,Bar Mills ,ME
+737,Barboursville ,VA
+743,Barhamsville ,VA
+744,Barium Springs ,NC
+747,Barksdale Afb ,LA
+749,Barnard ,SD
+750,Barnardsville ,NC
+761,Barnstable ,MA
+773,Barrytown ,NY
+779,Barto ,PA
+781,Barton ,OH
+782,Barton City ,MI
+788,Basking Ridge ,NJ
+789,Basom ,NY
+790,Bass Harbor ,ME
+799,Batesburg ,SC
+802,Batesville ,VA
+809,Bath ,OH
+811,Bath ,SC
+813,Bath ,IN
+814,Bath Springs ,TN
+821,Battleboro ,NC
+822,Bausman ,PA
+830,Bay Saint Louis ,MS
+840,Bayside ,NY
+842,Bayview ,ID
+843,Bayville ,NJ
+853,Beallsville ,MD
+858,Bear Creek ,NC
+859,Bear Creek ,WI
+868,Beaver ,PA
+873,Beaver Dams ,NY
+874,Beaver Falls ,NY
+880,Beaverdam ,VA
+892,Bedford ,PA
+901,Beech Bluff ,TN
+905,Beech Island ,SC
+907,Beechgrove ,TN
+910,Bel Alton ,MD
+911,Belcamp ,MD
+914,Belden ,MS
+917,Belews Creek ,NC
+925,Belgrade Lakes ,ME
+951,Belleville ,WV
+969,Bellvue ,CO
+975,Belmont ,MI
+981,Belmont ,WI
+985,Belsano ,PA
+997,Ben Wheeler ,TX
+1001,Benezett ,PA
+1013,Bent Mountain ,VA
+1015,Bentley ,LA
+1016,Bentley ,MI
+1024,Benton ,WI
+1035,Bergheim ,TX
+1038,Bergton ,VA
+1042,Berkeley Springs ,WV
+1052,Berlin ,PA
+1055,Berlin Center ,OH
+1058,Bernard ,ME
+1062,Bernhards Bay ,NY
+1065,Berrien Center ,MI
+1069,Berryton ,KS
+1073,Berwick ,IA
+1085,Bethany ,LA
+1094,Bethel ,NY
+1109,Beverley Beach ,MD
+1117,Bickmore ,WV
+1120,Biddeford Pool ,ME
+1121,Bidwell ,OH
+1123,Big Bend ,WI
+1124,Big Cove Tannery ,PA
+1129,Big Prairie ,OH
+1148,Bingham ,ME
+1150,Birch Harbor ,ME
+1153,Birchwood ,TN
+1154,Bird in Hand ,PA
+1159,Birmingham ,OH
+1165,Bismarck ,AR
+1168,Bitely ,MI
+1177,Black Hawk ,SD
+1180,Black River ,MI
+1185,Blacklick ,OH
+1188,Blackstone ,IL
+1202,Blanch ,NC
+1204,Blanchard ,MI
+1234,Bloomingrose ,WV
+1238,Bloomington ,NY
+1244,Blossvale ,NY
+1245,Blount ,WV
+1246,Blounts Creek ,NC
+1255,Blue Hill ,ME
+1266,Bluemont ,VA
+1275,Boaz ,KY
+1279,Bohannon ,VA
+1283,Bois D Arc ,MO
+1294,Bon Secour ,AL
+1295,Bonaire ,GA
+1296,Bonanza ,UT
+1297,Boncarbo ,CO
+1298,Bondsville ,MA
+1306,Bonner ,MT
+1309,Bonnots Mill ,MO
+1315,Booneville ,IA
+1323,Boothbay ,ME
+1324,Boothbay Harbor ,ME
+1328,Boring ,OR
+1340,Bouckville ,NY
+1349,Bovard ,PA
+1351,Bow ,WA
+1361,Bowmansville ,NY
+1364,Box Springs ,GA
+1372,Boyds ,MD
+1373,Boyers ,PA
+1378,Boynton ,PA
+1384,Brackney ,PA
+1396,Bradfordwoods ,PA
+1398,Bradley ,MI
+1409,Braintree ,MA
+1413,Branchport ,NY
+1414,Branchton ,PA
+1415,Branchville ,IN
+1423,Brandt ,SD
+1424,Brandy Station ,VA
+1430,Brant Lake ,NY
+1431,Brant Rock ,MA
+1435,Brazeau ,MO
+1444,Breezewood ,PA
+1445,Breezy Point ,NY
+1449,Bremen ,ME
+1452,Bremo Bluff ,VA
+1471,Bridge Port ,IA
+1474,Bridgeport ,IN
+1477,Bridgeport ,NJ
+1498,Brierfield ,AL
+1503,Brighton ,MA
+1505,Brighton ,MO
+1513,Bringhurst ,IN
+1514,Brinkhaven ,OH
+1515,Brinklow ,MD
+1520,Bristol ,ME
+1525,Bristol ,VT
+1528,Bristolville ,OH
+1530,Bristow ,IN
+1532,Bristow ,VA
+1537,Broad Run ,VA
+1538,Broad Top ,PA
+1548,Brockport ,PA
+1553,Brogue ,PA
+1554,Brohman ,MI
+1560,Bronston ,KY
+1562,Bronx ,NY
+1570,Brookfield ,OH
+1576,Brooklin ,ME
+1578,Brookline ,MO
+1581,Brooklyn ,MD
+1584,Brooklyn ,WI
+1586,Brookpark ,OH
+1589,Brooks ,ME
+1590,Brookside ,NJ
+1594,Brooksville ,ME
+1606,Browns Summit ,NC
+1607,Brownsboro ,AL
+1619,Brownwood ,MO
+1622,Bruceville ,TX
+1631,Brussels ,WI
+1636,Bryant ,IA
+1638,Bryant ,WI
+1640,Bryantville ,MA
+1641,Bryceville ,FL
+1643,Bryn Mawr ,CA
+1652,Buckfield ,ME
+1654,Buckingham ,IA
+1655,Buckingham ,PA
+1662,Bucks ,AL
+1663,Bucksport ,ME
+1672,Buena Vista ,PA
+1686,Buffalo Mills ,PA
+1688,Buford ,WY
+1693,Bullock ,NC
+1695,Bullville ,NY
+1697,Bumpass ,VA
+1701,Bunker Hill ,WV
+1708,Burbank ,SD
+1711,Burfordville ,MO
+1714,Burghill ,OH
+1740,Burnham ,ME
+1743,Burnside ,IA
+1747,Burnt Cabins ,PA
+1748,Burnt Hills ,NY
+1750,Burrows ,IN
+1753,Burt ,NY
+1758,Bushland ,TX
+1761,Bushwood ,MD
+1770,Butler ,WI
+1773,Butte ,MT
+1778,Buxton ,OR
+1782,Byfield ,MA
+1784,Bynum ,NC
+1795,Cable ,OH
+1797,Cabot ,PA
+1799,Cache Junction ,UT
+1837,Callaway ,MD
+1840,Callicoon ,NY
+1848,Camano Island ,WA
+1853,Cambria Heights ,NY
+1857,Cambridge ,ME
+1859,Cambridge ,VT
+1865,Camby ,IN
+1873,Camden Wyoming ,DE
+1875,Cameron ,MT
+1881,Camp Grove ,IL
+1885,Camp Lejeune ,NC
+1886,Camp Pendleton ,CA
+1891,Campbell Hall ,NY
+1897,Canaan ,ME
+1899,Canadys ,SC
+1907,Candler ,NC
+1909,Canehill ,AR
+1915,Canoga Park ,CA
+1925,Canton ,MI
+1929,Canton ,PA
+1932,Canton Center ,CT
+1933,Cantonment ,FL
+1937,Canyon Country ,CA
+1943,Cape Fair ,MO
+1946,Cape May Court House ,NJ
+1949,Cape Porpoise ,ME
+1951,Capistrano Beach ,CA
+1960,Cardiff by the Sea ,CA
+1961,Cardinal ,VA
+1996,Carpenter ,SD
+2019,Cartersville ,VA
+2027,Carversville ,PA
+2030,Cary/Elgin ,IL
+2033,Casanova ,VA
+2034,Cascade ,CO
+2036,Cascade ,MD
+2039,Cascade ,VA
+2041,Casco ,MI
+2059,Cassville ,NY
+2069,Castile ,NY
+2070,Castine ,ME
+2071,Castle Creek ,NY
+2075,Castleton on Hudson ,NY
+2080,Cataula ,GA
+2081,Cataumet ,MA
+2084,Catharpin ,VA
+2092,Catskill ,NY
+2099,Cavour ,SD
+2103,Cayuta ,NY
+2105,Cecil ,AL
+2106,Cecil ,AR
+2107,Cecil ,IN
+2113,Cedar ,MN
+2114,Cedar Brook ,NJ
+2116,Cedar Creek ,TX
+2118,Cedar Falls ,NC
+2120,Cedar Grove ,TN
+2125,Cedar Island ,NC
+2126,Cedar Knolls ,NJ
+2128,Cedar Lake ,MI
+2132,Cedar Valley ,UT
+2135,Cedars ,PA
+2141,Cedarville ,WV
+2142,Celestine ,IN
+2146,Center Barnstead ,NH
+2153,Center Point ,TX
+2154,Center Sandwich ,NH
+2155,Center Tuftonboro ,NH
+2156,Center Valley ,PA
+2157,Centerbrook ,CT
+2166,Centerville ,MA
+2167,Centerville ,PA
+2181,Central Valley ,NY
+2192,Ceresco ,MI
+2201,Chaffee ,NY
+2204,Chalk Hill ,PA
+2208,Champion ,PA
+2210,Chana ,IL
+2211,Chancellor ,AL
+2232,Chappells ,SC
+2233,Chaptico ,MD
+2246,Charlestown ,MA
+2257,Charlottesville ,IN
+2259,Charlton City ,MA
+2260,Chase ,MI
+2268,Chatsworth ,CA
+2270,Chatsworth ,IL
+2271,Chatsworth ,NJ
+2275,Chattaroy ,WA
+2285,Cheltenham ,MD
+2289,Chenango Forks ,NY
+2298,Cherry Point ,NC
+2301,Cherry Valley ,MA
+2322,Chester ,NY
+2328,Chester Springs ,PA
+2333,Chesterfield ,VA
+2338,Chestnut Hill ,MA
+2339,Chestnutridge ,MO
+2345,Cheyney ,PA
+2350,Chichester ,NY
+2366,China Village ,ME
+2370,Chinquapin ,NC
+2372,Chippewa Lake ,MI
+2389,Chuckey ,TN
+2396,Church Road ,VA
+2397,Churchton ,MD
+2402,Cicero ,IL
+2408,Circleville ,NY
+2411,Citra ,FL
+2414,Clackamas ,OR
+2419,Clare ,IL
+2425,Claremont ,SD
+2436,Claridge ,PA
+2438,Clarington ,PA
+2440,Clarion ,PA
+2448,Clarklake ,MI
+2452,Clarks Mills ,PA
+2453,Clarksboro ,NJ
+2461,Clarkston ,MI
+2465,Clarksville ,MD
+2470,Claryville ,NY
+2477,Clay Center ,OH
+2492,Clear Brook ,VA
+2493,Clear Creek ,IN
+2499,Clearfield ,KY
+2500,Clearfield ,PA
+2502,Clearview City ,KS
+2503,Clearville ,PA
+2508,Clearwater Beach ,FL
+2511,Clements ,MD
+2523,Cleveland ,SC
+2525,Cleveland ,WI
+2530,Cleverdale ,NY
+2535,Cliffwood ,NJ
+2548,Climax ,NC
+2563,Clinton ,NY
+2568,Clinton ,WI
+2569,Clinton Corners ,NY
+2570,Clinton Township ,MI
+2578,Cloutierville ,LA
+2589,Clymer ,PA
+2593,Coal Township ,PA
+2600,Cobalt ,CT
+2601,Cobb ,GA
+2603,Cobbs Creek ,VA
+2612,Cocolamus ,PA
+2613,Coden ,AL
+2617,Coeur D Alene ,ID
+2619,Coeymans Hollow ,NY
+2623,Cogan Station ,PA
+2633,Colbert ,WA
+2650,Colerain ,OH
+2656,Colfax ,NC
+2658,Colgate ,WI
+2661,College Grove ,TN
+2664,College Point ,NY
+2669,Colliers ,WV
+2670,Colliersville ,NY
+2681,Collison ,IL
+2683,Colmar ,PA
+2686,Cologne ,NJ
+2688,Coloma ,WI
+2695,Colora ,MD
+2700,Colton ,OR
+2702,Coltons Point ,MD
+2719,Columbia Station ,OH
+2725,Columbus ,MI
+2729,Columbus ,NJ
+2733,Columbus ,AR
+2743,Comfort ,NC
+2746,Comins ,MI
+2753,Commerce Township ,MI
+2758,Compton ,MD
+2767,Concordville ,PA
+2770,Conestee ,SC
+2779,Conklin ,MI
+2791,Conover ,OH
+2792,Conowingo ,MD
+2802,Convent Station ,NJ
+2806,Convoy ,IN
+2816,Cooksburg ,PA
+2817,Cookstown ,NJ
+2819,Cooksville ,MD
+2820,Cool Ridge ,WV
+2829,Coosawhatchie ,SC
+2837,Coral ,MI
+2842,Corbett ,OR
+2848,Cordova ,TN
+2849,Corea ,ME
+2865,Cornwall on Hudson ,NY
+2867,Corona ,NY
+2869,Corona del Mar ,CA
+2876,Corryton ,TN
+2880,Cortland ,IL
+2881,Cortland ,IN
+2885,Cortlandt Manor ,NY
+2898,Cottage Hills ,IL
+2899,Cottageville ,WV
+2906,Cotuit ,MA
+2909,Coulters ,PA
+2910,Counce ,TN
+2920,Covesville ,VA
+2926,Covington ,PA
+2929,Cowansville ,PA
+2933,Cowlesville ,NY
+2936,Coxs Creek ,KY
+2937,Coxsackie ,NY
+2938,Coyote ,CA
+2945,Craigville ,IN
+2946,Craley ,PA
+2948,Cranberry ,PA
+2949,Cranberry Isles ,ME
+2950,Cranberry Twp ,PA
+2955,Crane Hill ,AL
+2963,Cream Ridge ,NJ
+2964,Creamery ,PA
+2967,Creighton ,PA
+2986,Criders ,VA
+2998,Cropseyville ,NY
+2999,Cropwell ,AL
+3001,Crosby ,PA
+3004,Cross Junction ,VA
+3007,Cross River ,NY
+3011,Croton ,OH
+3012,Croton Falls ,NY
+3013,Croton on Hudson ,NY
+3023,Crozier ,VA
+3024,Crum Lynne ,PA
+3026,Crystal ,MI
+3027,Crystal Beach ,FL
+3032,Crystal Spring ,PA
+3038,Cuddebackville ,NY
+3039,Cuddy ,PA
+3052,Cumberland Center ,ME
+3053,Cumberland Foreside ,ME
+3054,Cummaquid ,MA
+3060,Curllsville ,PA
+3061,Curran ,MI
+3062,Currie ,NC
+3063,Currituck ,NC
+3064,Curryville ,PA
+3066,Curtis Bay ,MD
+3070,Cushing ,MN
+3073,Cusseta ,GA
+3079,Custer ,WI
+3080,Custer City ,PA
+3083,Cutler ,IN
+3085,Cyclone ,PA
+3091,Cypress ,FL
+3098,Dahinda ,IL
+3101,Daisy ,MO
+3125,Damariscotta ,ME
+3131,Dameron ,MD
+3133,Danboro ,PA
+3137,Dania ,FL
+3140,Danielsville ,PA
+3145,Danville ,AL
+3151,Danville ,ME
+3165,Darien Center ,NY
+3170,Darragh ,PA
+3173,Daufuskie Island ,SC
+3177,Davenport ,NY
+3181,Davidsonville ,MD
+3189,Davisburg ,MI
+3191,Davisville ,WV
+3200,Dayton ,MD
+3212,Dayville ,CT
+3214,De Forest ,WI
+3218,De Lancey ,PA
+3221,De Mossville ,KY
+3233,Deansboro ,NY
+3242,Decatur ,IA
+3251,Decker ,MI
+3256,Deepwater ,NJ
+3260,Deer Isle ,ME
+3266,Deer River ,NY
+3267,Deerbrook ,WI
+3272,Deerfield ,OH
+3273,Deerfield ,WI
+3275,Deerfield Street ,NJ
+3277,Defiance ,IN
+3280,Deford ,MI
+3284,Del Valle ,TX
+3290,Delaplane ,VA
+3297,Delhi ,IL
+3298,Delhi ,NY
+3304,Delmar ,NY
+3305,Delmont ,NJ
+3307,Delong ,IN
+3320,Demotte ,IN
+3324,Denmark ,TN
+3330,Dennisville ,NJ
+3343,Deposit ,NY
+3344,Depue ,IL
+3347,Derby ,NY
+3348,Derrick City ,PA
+3350,Derry ,PA
+3358,Detroit ,ME
+3366,Dewar ,IA
+3368,Dewey ,IL
+3379,Diamond ,OH
+3381,Diamond Point ,NY
+3384,Diberville ,MS
+3386,Dickerson ,MD
+3387,Dickerson Run ,PA
+3393,Diggs ,VA
+3401,Dilltown ,PA
+3404,Dingle ,ID
+3405,Dinwiddie ,VA
+3407,Disputanta ,VA
+3408,Distant ,PA
+3410,Dittmer ,MO
+3412,Divide ,MT
+3413,Dividing Creek ,NJ
+3420,Dixonville ,PA
+3423,Doddridge ,AR
+3431,Dolomite ,AL
+3435,Donegal ,PA
+3441,Dorchester ,MA
+3443,Dorchester ,NJ
+3444,Dorchester ,SC
+3446,Dorchester Center ,MA
+3447,Dornsife ,PA
+3448,Dorothy ,NJ
+3450,Dorsey ,IL
+3451,Doswell ,VA
+3473,Dow ,IL
+3475,Dowell ,MD
+3489,Drake ,KY
+3493,Drayden ,MD
+3494,Drennen ,WV
+3495,Dresden ,ME
+3498,Dresher ,PA
+3500,Drifting ,PA
+3506,Drummonds ,TN
+3509,Dry Branch ,GA
+3510,Dry Fork ,VA
+3513,Dry Run ,PA
+3514,Drybranch ,WV
+3518,Du Bois ,PA
+3527,Dublin ,PA
+3534,Dudley ,NC
+3539,Duke Center ,PA
+3550,Dunbridge ,OH
+3556,Duncanville ,AL
+3581,Dunnegan ,MO
+3602,Dutton ,VA
+3612,Dyess AFB ,TX
+3613,Dyke ,VA
+3615,Dysart ,PA
+3616,Eads ,TN
+3622,Eagle ,WI
+3625,Eagle Creek ,OR
+3630,Eagle Rock ,VA
+3634,Earleton ,FL
+3635,Earleville ,MD
+3639,Early Branch ,SC
+3640,Earlysville ,VA
+3643,East Amherst ,NY
+3648,East Berlin ,CT
+3650,East Berne ,NY
+3652,East Bethany ,NY
+3654,East Blue Hill ,ME
+3655,East Boothbay ,ME
+3663,East Chatham ,NY
+3666,East Concord ,NY
+3668,East Derry ,NH
+3671,East Durham ,NY
+3673,East Elmhurst ,NY
+3674,East Fairfield ,VT
+3678,East Freetown ,MA
+3681,East Glastonbury ,CT
+3688,East Hampstead ,NH
+3693,East Hartland ,CT
+3698,East Killingly ,CT
+3701,East Leroy ,MI
+3707,East Mc Keesport ,PA
+3710,East Millsboro ,PA
+3716,East Newport ,ME
+3720,East Orland ,ME
+3721,East Orleans ,MA
+3722,East Otis ,MA
+3734,East Saint Louis ,IL
+3736,East Schodack ,NY
+3737,East Setauket ,NY
+3738,East Smethport ,PA
+3741,East Springfield ,PA
+3742,East Springfield ,OH
+3744,East Tallassee ,AL
+3745,East Taunton ,MA
+3747,East Templeton ,MA
+3748,East Texas ,PA
+3751,East Vassalboro ,ME
+3752,East Walpole ,MA
+3753,East Wareham ,MA
+3754,East Waterboro ,ME
+3755,East Weymouth ,MA
+3757,East Winthrop ,ME
+3758,East Woodstock ,CT
+3759,Eastaboga ,AL
+3762,Easthampton ,MA
+3763,Eastlake ,CO
+3777,Eastside ,AL
+3778,Eastside ,FL
+3796,Eddy ,TX
+3799,Edelstein ,IL
+3804,Eden ,WI
+3811,Edgecomb ,ME
+3813,Edgemont ,AR
+3815,Edgemont ,PA
+3828,Edinburg ,PA
+3832,Edisto Island ,SC
+3838,Edwards ,IL
+3843,Effie ,LA
+3845,Effingham ,SC
+3848,Egg Harbor ,WI
+3850,Egg Harbor Township ,NJ
+3852,Eight Mile ,AL
+3858,El Dorado ,CA
+3864,El Paso ,AR
+3867,El Sereno Car ,CA
+3868,El Sobrante ,CA
+3883,Eldred ,PA
+3895,Elizabeth ,PA
+3900,Elizabethport ,NJ
+3919,Elkhorn ,NE
+3923,Elkins Park ,PA
+3924,Elkland ,PA
+3926,Elko ,GA
+3929,Elkton ,FL
+3936,Elkwood ,VA
+3937,Ellabell ,GA
+3941,Ellendale ,TN
+3944,Ellenwood ,GA
+3945,Ellerslie ,GA
+3952,Elliottsburg ,PA
+3953,Ellis ,ID
+3965,Elm ,PA
+3968,Elm Grove ,LA
+3970,Elm Mott ,TX
+3975,Elmer ,LA
+3978,Elmira ,MI
+3982,Elmora ,PA
+3987,Elmwood ,MA
+3996,Elton ,PA
+3999,Elwell ,MI
+4009,Emeigh ,PA
+4029,Empire ,AL
+4034,Encino ,CA
+4035,Endeavor ,PA
+4048,Enka ,NC
+4057,Entriken ,PA
+4059,Eola ,IL
+4065,Equality ,AL
+4070,Erieville ,NY
+4074,Ernul ,NC
+4078,Erwinna ,PA
+4083,Esmond ,IL
+4085,Esom Hill ,GA
+4094,Essington ,PA
+4107,Etters ,PA
+4113,Eugene ,MO
+4119,Eureka ,WI
+4122,Evans ,WV
+4128,Evanston ,IN
+4136,Evensville ,TN
+4148,Evington ,VA
+4149,Ewan ,NJ
+4159,Faber ,VA
+4162,Fair Haven ,MI
+4176,Fairdale ,KY
+4188,Fairfield ,ME
+4190,Fairfield ,NJ
+4191,Fairfield ,VA
+4192,Fairfield ,PA
+4210,Fairmount City ,PA
+4215,Fairview ,MI
+4217,Fairview ,NJ
+4222,Fairview Village ,PA
+4235,Fallentimber ,PA
+4241,Fallsburg ,NY
+4245,Falmouth ,MI
+4248,Far Rockaway ,NY
+4253,Farmdale ,OH
+4279,Faucett ,MO
+4280,Faulkner ,MD
+4294,Fayville ,MA
+4295,Fe Warren Afb ,WY
+4296,Feasterville Trevose ,PA
+4299,Feeding Hills ,MA
+4308,Fenwick ,MI
+4317,Ferndale ,NY
+4321,Ferrisburgh ,VT
+4326,Feura Bush ,NY
+4336,Finchville ,KY
+4340,Finksburg ,MD
+4345,Fischer ,TX
+4346,Fish Creek ,WI
+4348,Fisher ,PA
+4351,Fishers ,NY
+4353,Fishertown ,PA
+4354,Fisherville ,KY
+4356,Fishtail ,MT
+4358,Fiskeville ,RI
+4365,Flagtown ,NJ
+4367,Flanders ,NJ
+4369,Flat ,TX
+4374,Flatwoods ,LA
+4377,Fleming ,PA
+4386,Flint ,TX
+4387,Flinton ,PA
+4388,Flintstone ,GA
+4397,Florence ,MA
+4410,Floweree ,MT
+4415,Floyds Knobs ,IN
+4417,Flushing ,NY
+4419,Fly Creek ,NY
+4420,Fogelsville ,PA
+4428,Fombell ,PA
+4433,Fontana ,WI
+4437,Foothill Ranch ,CA
+4439,Forbes Road ,PA
+4453,Forest Hills ,NY
+4458,Forestburgh ,NY
+4460,Forestdale ,RI
+4463,Forestville ,WI
+4464,Fork Union ,VA
+4480,Fort Benning ,GA
+4482,Fort Bragg ,NC
+4487,Fort Defiance ,VA
+4491,Fort Eustis ,VA
+4493,Fort George G Meade ,MD
+4495,Fort Gratiot ,MI
+4497,Fort Hill ,PA
+4499,Fort Huachuca ,AZ
+4510,Fort McCoy ,FL
+4513,Fort Mitchell ,AL
+4514,Fort Monmouth ,NJ
+4515,Fort Monroe ,VA
+4522,Fort Polk ,LA
+4539,Fortescue ,NJ
+4540,Fortson ,GA
+4542,Foster ,KY
+4544,Foster ,VA
+4545,Foster ,WV
+4558,Fountaintown ,IN
+4559,Fountainville ,PA
+4571,Foxboro ,MA
+4573,Frametown ,WV
+4585,Frankfort ,ME
+4590,Franklin ,MA
+4595,Franklin ,ME
+4599,Franklin ,NJ
+4600,Franklin ,NY
+4617,Franklinville ,NJ
+4618,Franksville ,WI
+4623,Fraziers Bottom ,WV
+4624,Frederic ,MI
+4628,Frederick ,PA
+4629,Frederick ,SD
+4632,Fredericksburg ,PA
+4645,Freedom ,IN
+4646,Freedom ,ME
+4647,Freedom ,PA
+4648,Freedom ,WI
+4657,Freeport ,PA
+4668,Fremont ,WI
+4671,Frenchboro ,ME
+4672,Frenchton ,WV
+4675,Frenchville ,PA
+4676,Fresh Meadows ,NY
+4680,Friedheim ,MO
+4703,Fruitvale ,TN
+4704,Fryburg ,PA
+4705,Ft Mitchell ,KY
+4706,Ft. Myers ,FL
+4707,Fulda ,IN
+4709,Fulks Run ,VA
+4723,Fuquay Varina ,NC
+4724,Furlong ,PA
+4731,Gaines ,PA
+4734,Gainesville ,NY
+4751,Galivants Ferry ,SC
+4757,Galloway ,OH
+4759,Galt ,IL
+4768,Gans ,PA
+4769,Gansevoort ,NY
+4771,Garards Fort ,PA
+4798,Garland City ,AR
+4801,Garnerville ,NY
+4802,Garnet Valley ,PA
+4811,Garrison ,NY
+4830,Gaylordsville ,CT
+4831,Gayville ,SD
+4832,Geismar ,LA
+4833,Genesee ,MI
+4834,Genesee Depot ,WI
+4847,Genoa ,AR
+4860,Georgetown ,TN
+4868,Germansville ,PA
+4878,Gerrardstown ,WV
+4881,Getzville ,NY
+4890,Gibson Island ,MD
+4896,Gifford ,IA
+4898,Gifford ,PA
+4909,Gilbertville ,MA
+4910,Gilboa ,WV
+4913,Gill ,CO
+4919,Gillette ,NJ
+4926,Gilmanton Iron Works ,NH
+4930,Gipsy ,MO
+4933,Girard ,PA
+4936,Glade Hill ,VA
+4939,Gladstone ,NJ
+4943,Gladwyne ,PA
+4944,Gladys ,VA
+4952,Glasser ,NJ
+4967,Glen Mills ,PA
+4968,Glen Oaks ,NY
+4969,Glen Richey ,PA
+4970,Glen Riddle Lima ,PA
+4975,Glen Saint Mary ,FL
+4976,Glen Spey ,NY
+4977,Glen Wild ,NY
+4978,Glenallen ,MO
+4979,Glenarm ,IL
+4984,Glencoe ,MO
+4987,Glendale ,KY
+4988,Glendale ,RI
+4993,Glenelg ,MD
+4995,Glenham ,NY
+4996,Glenmont ,NY
+4998,Glenmoore ,PA
+5000,Glenn ,MI
+5002,Glennie ,MI
+5011,Glenville ,PA
+5015,Glenwood ,MD
+5017,Glenwood ,NJ
+5018,Glenwood ,NY
+5023,Gloucester ,VA
+5030,Glyndon ,MD
+5041,Gold Hill ,NC
+5044,Goldens Bridge ,NY
+5047,Goldvein ,VA
+5050,Gomer ,OH
+5053,Good Hart ,MI
+5055,Goode ,VA
+5056,Goodells ,MI
+5064,Goodview ,VA
+5066,Goodwin ,SD
+5075,Gore ,VA
+5082,Goshen ,NJ
+5083,Goshen ,OH
+5089,Gouldsboro ,ME
+5091,Gowen ,MI
+5096,Grady ,AL
+5097,Gradyville ,PA
+5108,Grahamsville ,NY
+5113,Granada Hills ,CA
+5123,Grand Island ,FL
+5128,Grand Junction ,MI
+5149,Granite Canon ,WY
+5154,Granite Springs ,NY
+5158,Grant ,FL
+5162,Grantham ,PA
+5166,Grantsdale ,MT
+5172,Grantville ,PA
+5181,Gratiot ,WI
+5195,Graysville ,GA
+5196,Graysville ,PA
+5197,Graytown ,OH
+5203,Great Lakes ,IL
+5205,Great Mills ,MD
+5213,Green Creek ,NJ
+5214,Green Harbor ,MA
+5219,Green Pond ,SC
+5222,Green Village ,NJ
+5223,Greenacres ,WA
+5228,Greenbush ,MA
+5230,Greenbush ,MI
+5235,Greendell ,NJ
+5238,Greene ,NY
+5243,Greenfield ,MA
+5247,Greenfield Center ,NY
+5248,Greenfield Park ,NY
+5249,Greenford ,OH
+5276,Greenville ,NY
+5284,Greenwell Springs ,LA
+5286,Greenwich ,NJ
+5297,Greenwood ,TX
+5298,Greenwood ,VA
+5301,Greenwood Springs ,MS
+5303,Gregory ,MI
+5304,Grenloch ,NJ
+5305,Grenville ,SD
+5324,Grissom ARB ,IN
+5336,Groveland ,IL
+5340,Grover ,MO
+5342,Grover ,PA
+5343,Grover Hill ,IN
+5344,Grovertown ,IN
+5347,Guasti ,CA
+5349,Guild ,TN
+5351,Guilderland Center ,NY
+5357,Gum Spring ,VA
+5369,Gwynedd ,PA
+5370,Gwynedd Valley ,PA
+5372,Gwynn Oak ,MD
+5373,Gwynneville ,IN
+5377,Hacker Valley ,WV
+5381,Haddock ,GA
+5387,Hadley ,PA
+5396,Hale ,MI
+5399,Halethorpe ,MD
+5404,Hallandale ,FL
+5409,Halltown ,WV
+5419,Hamel ,MN
+5425,Hamilton ,MI
+5454,Hampton ,TN
+5463,Hancock ,ME
+5465,Hancock ,NY
+5466,Hancock ,WI
+5471,Hannastown ,PA
+5475,Hanover ,MD
+5479,Hanover ,PA
+5491,Happy Jack ,AZ
+5493,Harbert ,MI
+5494,Harbeson ,DE
+5498,Harborside ,ME
+5505,Hardy ,VA
+5506,Hardyville ,VA
+5517,Harmans ,MD
+5520,Harmony ,ME
+5522,Harmony ,PA
+5548,Harrison Township ,MI
+5551,Harrisonville ,NJ
+5552,Harrisonville ,PA
+5560,Harrods Creek ,KY
+5563,Harsens Island ,MI
+5565,Hartfield ,VA
+5577,Hartland ,ME
+5579,Hartland ,WI
+5603,Harwood ,MD
+5607,Haskell ,NJ
+5618,Hastings on Hudson ,NY
+5620,Hatchechubbee ,AL
+5636,Havertown ,PA
+5637,Haviland ,IN
+5644,Hawks ,MI
+5654,Haydenville ,MA
+5655,Hayes ,VA
+5661,Hayti ,SD
+5664,Haywood ,VA
+5669,Hazel Hurst ,PA
+5672,Hazelwood ,NC
+5677,Heafford Junction ,WI
+5678,Heaters ,WV
+5680,Heber ,AZ
+5681,Heber City ,UT
+5694,Heidenheimer ,TX
+5695,Heiskell ,TN
+5696,Heislerville ,NJ
+5697,Helen ,MD
+5702,Helena ,AR
+5705,Helmsburg ,IN
+5707,Heltonville ,IN
+5713,Henderson ,CO
+5721,Henderson Harbor ,NY
+5729,Henrico ,VA
+5733,Henry ,VA
+5745,Hermitage ,TN
+5755,Hernshaw ,WV
+5759,Herron ,MI
+5767,Hesston ,PA
+5769,Hewitt ,NJ
+5779,Hibernia ,NJ
+5781,Hickory ,KY
+5787,Hicksville ,IN
+5789,Hidden Valley ,PA
+5794,Higgins Lake ,MI
+5801,Highgate Center ,VT
+5805,Highland ,MI
+5810,Highland Home ,AL
+5812,Highland Mills ,NY
+5822,Higley ,AZ
+5824,Hill AFB ,UT
+5831,Hilliards ,PA
+5839,Hillsboro ,KY
+5851,Hillsdale ,PA
+5854,Hillsgrove ,PA
+5858,Hillsville ,PA
+5862,Hinckley ,ME
+5865,Hineston ,LA
+5871,Hinton ,VA
+5877,Hiwasse ,AR
+5878,Hixson ,TN
+5879,Ho Ho Kus ,NJ
+5896,Holbrook ,ID
+5897,Holcomb ,IL
+5899,Holden ,LA
+5906,Holicong ,PA
+5908,Holladay ,TN
+5921,Hollis ,NY
+5922,Hollis Center ,ME
+5926,Hollsopple ,PA
+5932,Hollywood ,MD
+5936,Holmes ,NY
+5937,Holmes ,PA
+5940,Holt ,FL
+5947,Holtwood ,PA
+5950,Home ,PA
+5954,Homer ,IN
+5960,Homerville ,OH
+5974,Honey Creek ,IA
+5975,Honey Grove ,PA
+5988,Hope ,MI
+5990,Hope ,RI
+5992,Hope Hull ,AL
+5999,Hopewell ,NJ
+6000,Hopewell ,PA
+6011,Horatio ,SC
+6020,Horton ,MI
+6028,Hot Springs National Park ,AR
+6030,Houghton ,SD
+6032,Houghton Lake Heights ,MI
+6034,House Springs ,MO
+6039,Houston ,OH
+6047,Howardsville ,VA
+6050,Howe ,ID
+6053,Howells ,NY
+6054,Howey in the Hills ,FL
+6062,Hubert ,NC
+6063,Hubertus ,WI
+6064,Huddleston ,VA
+6065,Hudgins ,VA
+6080,Huffman ,TX
+6081,Hugheston ,WV
+6085,Huguenot ,NY
+6090,Hulls Cove ,ME
+6091,Humarock ,MA
+6094,Humboldt ,SD
+6101,Hunt Valley ,MD
+6107,Huntingdon Valley ,PA
+6119,Huntley ,WY
+6126,Hurdle Mills ,NC
+6127,Hurlburt Field ,FL
+6134,Huron ,TN
+6140,Hustontown ,PA
+6148,Hyannis ,MA
+6149,Hyannis Port ,MA
+6152,Hyde Park ,MA
+6155,Hyde Park ,VT
+6160,Ickesburg ,PA
+6169,Idlewild ,MI
+6170,Idlewild ,TN
+6172,Ijamsville ,MD
+6174,Illinois City ,IL
+6177,Imlaystown ,NJ
+6178,Imler ,PA
+6179,Immaculata ,PA
+6190,Independence ,WV
+6193,Indian Head ,PA
+6194,Indian Orchard ,MA
+6203,Indianola ,PA
+6210,Ingleside ,IL
+6211,Ingleside ,MD
+6215,Ingomar ,PA
+6220,Institute ,WV
+6230,Iola ,WI
+6234,Ionia ,NY
+6239,Ireland ,IN
+6242,Irma ,WI
+6246,Ironia ,NJ
+6247,Irons ,MI
+6253,Irvine ,PA
+6255,Irving ,NY
+6257,Irvington ,AL
+6265,Isabella ,PA
+6269,Islamorada ,FL
+6278,Islesboro ,ME
+6279,Islesford ,ME
+6280,Isleta ,NM
+6284,Issue ,MD
+6292,Ivoryton ,CT
+6294,Ivydale ,WV
+6296,Jacks Creek ,TN
+6307,Jackson ,WI
+6313,Jackson Springs ,NC
+6316,Jacksons Gap ,AL
+6317,Jacksontown ,OH
+6329,Jamaica ,NY
+6330,Jamaica Plain ,MA
+6332,James Creek ,PA
+6335,Jamestown ,MI
+6342,Jamesville ,NY
+6343,Jamison ,PA
+6358,Jean ,NV
+6361,Jeddo ,MI
+6364,Jefferson ,MA
+6366,Jefferson ,ME
+6368,Jefferson ,PA
+6373,Jefferson Valley ,NY
+6374,Jeffersonton ,VA
+6380,Jekyll Island ,GA
+6390,Jenners ,PA
+6405,Jetersville ,VA
+6406,Jewell ,IA
+6409,Jobstown ,NJ
+6410,Joelton ,TN
+6412,Johannesburg ,MI
+6413,Johns Island ,SC
+6421,Johnsonville ,NY
+6432,Jones ,MI
+6433,Jones Mills ,PA
+6436,Jonesboro ,TX
+6451,Julian ,NC
+6453,Julian ,WV
+6454,Juliette ,GA
+6456,Jump River ,WI
+6474,Kanaranzi ,MN
+6481,Kansasville ,WI
+6482,Kantner ,PA
+6488,Kathleen ,GA
+6490,Kattskill Bay ,NY
+6500,Kearneysville ,WV
+6502,Keasbey ,NJ
+6506,Keeling ,VA
+6507,Keene ,KY
+6510,Keene ,VA
+6512,Keezletown ,VA
+6513,Keisterville ,PA
+6527,Kenansville ,FL
+6529,Kendalia ,TX
+6539,Kenna ,WV
+6553,Kensington ,OH
+6562,Kents Hill ,ME
+6563,Kents Store ,VA
+6566,Kenyon ,RI
+6578,Kesley ,IA
+6579,Keswick ,VA
+6583,Kewadin ,MI
+6590,Keymar ,MD
+6595,Keystone ,IN
+6599,Kiamesha Lake ,NY
+6606,Killarney ,FL
+6618,Kimberton ,PA
+6621,Kincheloe ,MI
+6627,King Ferry ,NY
+6635,Kingman ,ME
+6657,Kingston ,WI
+6662,Kingwood ,TX
+6666,Kintnersville ,PA
+6667,Kinzers ,PA
+6668,Kipling ,NC
+6674,Kirkville ,NY
+6680,Kittery Point ,ME
+6681,Kitts Hill ,OH
+6686,Knox ,PA
+6687,Knox Dale ,PA
+6691,Knoxville ,MD
+6694,Kodak ,TN
+6698,Kossuth ,PA
+6701,Kranzburg ,SD
+6709,Kunkletown ,PA
+6714,La Belle ,PA
+6719,La Crescenta ,CA
+6722,La Fayette ,GA
+6723,La Fayette ,NY
+6733,La Jolla ,CA
+6742,La Place ,LA
+6750,La Salle ,IL
+6757,Labadie ,MO
+6759,Labolt ,SD
+6760,Lacarne ,OH
+6762,Lacey Spring ,VA
+6763,Laceys Spring ,AL
+6764,Lachine ,MI
+6765,Lackey ,VA
+6766,Lackland A F B ,TX
+6774,Ladys Island ,SC
+6778,Lafayette ,AL
+6786,Lafayette Hill ,PA
+6787,Lafox ,IL
+6792,Lagrangeville ,NY
+6799,Lahaska ,PA
+6802,Lairdsville ,PA
+6803,Lake ,MI
+6804,Lake ,WV
+6815,Lake Cormorant ,MS
+6820,Lake Elmore ,VT
+6825,Lake George ,MI
+6831,Lake Hiawatha ,NJ
+6832,Lake Hopatcong ,NJ
+6833,Lake Hubert ,MN
+6840,Lake Lynn ,PA
+6843,Lake Milton ,OH
+6854,Lake Peekskill ,NY
+6859,Lake View ,NY
+6865,Lakebay ,WA
+6869,Lakeland ,MI
+6872,Lakeside ,AZ
+6875,Lakeside ,MI
+6876,Lakeside Marblehead ,OH
+6881,Lakeville ,MI
+6884,Lakeville ,OH
+6890,Lamar ,IN
+6893,Lamar ,MS
+6894,Lamartine ,PA
+6897,Lamont ,MI
+6899,Lampe ,MO
+6911,Land O Lakes ,FL
+6912,Landenberg ,PA
+6913,Landing ,NJ
+6916,Landisville ,NJ
+6919,Lanesboro ,MA
+6923,Lanexa ,VA
+6931,Lanoka Harbor ,NJ
+6940,Laotto ,IN
+6941,Lapaz ,IN
+6946,Laporte ,PA
+6953,Larsen ,WI
+6958,Lascassas ,TN
+6961,Latham ,NY
+6963,Latonia ,KY
+6965,Laughlintown ,PA
+6966,Laura ,IL
+6984,Laveen ,AZ
+6986,Lavinia ,TN
+6995,Lawrence Township ,NJ
+7006,Lawtons ,NY
+7007,Layton ,NJ
+7040,Lederach ,PA
+7041,Ledgewood ,NJ
+7048,Lee Center ,NY
+7051,Leeds ,MA
+7053,Leeds Point ,NJ
+7055,Lees Summit ,MO
+7058,Leesburg ,NJ
+7063,Leesville ,SC
+7069,Lehigh Valley ,PA
+7072,Leicester ,NC
+7077,Leisenring ,PA
+7088,Lemoyne ,OH
+7091,Lena ,LA
+7095,Lenni ,PA
+7101,Lenox Dale ,MA
+7103,Leo ,IN
+7114,Leopold ,MO
+7118,Leroy ,IN
+7119,Leroy ,MI
+7125,Letha ,ID
+7126,Letohatchee ,AL
+7135,Lewis Center ,OH
+7157,Lewisville ,PA
+7159,Lexington ,KY
+7171,Liberty ,ME
+7174,Liberty ,PA
+7178,Liberty ,NY
+7179,Liberty Center ,IN
+7181,Liberty Corner ,NJ
+7185,Lightfoot ,VA
+7186,Lignum ,VA
+7190,Lillian ,AL
+7196,Limestone ,PA
+7197,Limestone ,TN
+7203,Lincoln ,DE
+7211,Lincoln City ,IN
+7219,Lincolnville ,ME
+7220,Lincolnville Center ,ME
+7230,Linden ,PA
+7231,Linden ,VA
+7233,Lindenwood ,IL
+7238,Line Lexington ,PA
+7242,Lingleville ,TX
+7244,Linthicum Heights ,MD
+7246,Linville ,VA
+7248,Linwood ,MI
+7249,Linwood ,NC
+7261,Listie ,PA
+7269,Lithia ,FL
+7277,Little Deer Isle ,ME
+7285,Little Neck ,NY
+7287,Little Point ,IN
+7288,Little River ,AL
+7290,Little River Academy ,TX
+7292,Little Rock Air Force Base ,AR
+7295,Little York ,NY
+7302,Livermore ,CO
+7313,Lizella ,GA
+7318,Lobeco ,SC
+7329,Locust Grove ,VA
+7330,Locust Hill ,VA
+7358,London ,WV
+7372,Long Island City ,NY
+7382,Longs ,SC
+7388,Longwood ,NC
+7411,Lothian ,MD
+7434,Loveville ,MD
+7445,Lowland ,NC
+7446,Lowman ,NY
+7448,Lowpoint ,IL
+7449,Lowville ,NY
+7450,Loxahatchee ,FL
+7454,Loysburg ,PA
+7455,Loysville ,PA
+7461,Lucerne ,CO
+7462,Lucerne ,IN
+7463,Lucernemines ,PA
+7464,Lucinda ,PA
+7469,Ludlow ,PA
+7470,Ludlow ,SD
+7480,Lumberville ,PA
+7484,Luray ,TN
+7492,Luthersburg ,PA
+7494,Lutherville Timonium ,MD
+7499,Luxor ,PA
+7500,Luzerne ,MI
+7505,Lynch Station ,VA
+7516,Lyndora ,PA
+7519,Lynn Center ,IL
+7534,Lyons Falls ,NY
+7537,Mabelvale ,AR
+7539,Macatawa ,MI
+7547,Mackeyville ,PA
+7555,Macomb Township ,MI
+7563,Madera ,PA
+7569,Madison ,ME
+7575,Madison ,PA
+7577,Madison ,TN
+7607,Maidens ,VA
+7608,Maidsville ,WV
+7615,Malaga ,NJ
+7620,Malden Bridge ,NY
+7624,Mallory ,NY
+7625,Malmstrom A F B ,MT
+7626,Malone ,WI
+7637,Manakin Sabot ,VA
+7646,Manchester ,MA
+7652,Manchester ,PA
+7655,Manchester Township ,NJ
+7661,Manheim ,PA
+7666,Manitou Beach ,MI
+7674,Manning ,OR
+7676,Manomet ,MA
+7677,Manor ,PA
+7681,Manquin ,VA
+7690,Mansfield Center ,CT
+7691,Mansfield Depot ,CT
+7704,Manville ,RI
+7709,Maple Hill ,NC
+7721,Mapleton Depot ,PA
+7722,Mapleville ,RI
+7724,Maplewood ,OH
+7731,Marble ,PA
+7733,Marble Hill ,GA
+7738,Marbury ,MD
+7750,Margarettsville ,NC
+7752,Maria Stein ,OH
+7753,Mariah Hill ,IN
+7759,Marietta ,NY
+7761,Marietta ,SC
+7768,Marine on Saint Croix ,MN
+7770,Marion ,CT
+7791,Mark Center ,IN
+7794,Markham ,VA
+7796,Markleton ,PA
+7809,Marmora ,NJ
+7810,Marne ,MI
+7814,Marriottsville ,MD
+7824,Marshall ,WI
+7836,Marstons Mills ,MA
+7838,Martel ,OH
+7839,Martell ,NE
+7844,Martin ,OH
+7860,Marydel ,DE
+7878,Maspeth ,NY
+7879,Massapequa ,NY
+7889,Matheson ,CO
+7890,Mathews ,AL
+7892,Mattapan ,MA
+7906,Maurepas ,LA
+7908,Mauricetown ,NJ
+7916,Maxwelton ,WV
+7922,Mayfield ,MI
+7925,Maylene ,AL
+7932,Mayport ,PA
+7933,Mays ,IN
+7935,Mayslick ,KY
+7950,Mc Adenville ,NC
+7951,Mc Afee ,NJ
+7952,Mc Alisterville ,PA
+7953,Mc Arthur ,OH
+7954,Mc Bain ,MI
+7955,Mc Calla ,AL
+7956,Mc Callsburg ,IA
+7957,Mc Caskill ,AR
+7958,Mc Causland ,IA
+7959,Mc Clelland ,IA
+7960,Mc Clellandtown ,PA
+7961,Mc Clure ,OH
+7962,Mc Clure ,PA
+7963,Mc Comb ,OH
+7964,Mc Connellsburg ,PA
+7965,Mc Connellstown ,PA
+7966,Mc Cook ,NE
+7967,Mc Cool Junction ,NE
+7968,Mc Cordsville ,IN
+7969,Mc Cormick ,SC
+7970,Mc Cutchenville ,OH
+7971,Mc David ,FL
+7972,Mc Dermott ,OH
+7973,Mc Donald ,OH
+7974,Mc Donald ,PA
+7975,Mc Donald ,TN
+7976,Mc Elhattan ,PA
+7977,Mc Ewensville ,PA
+7978,Mc Farland ,WI
+7979,Mc Gaheysville ,VA
+7980,Mc Gee ,MO
+7981,Mc Grann ,PA
+7982,Mc Graw ,NY
+7983,Mc Gregor ,IA
+7984,Mc Gregor ,TX
+7985,Mc Guffey ,OH
+7986,Mc Henry ,MD
+7987,Mc Kean ,PA
+7988,Mc Kees Rocks ,PA
+7989,Mc Kenzie ,TN
+7990,Mc Knightstown ,PA
+7991,Mc Lean ,IL
+7992,Mc Lean ,VA
+7993,Mc Leansville ,NC
+7994,Mc Leod ,MT
+7995,Mc Nabb ,IL
+7996,Mc Queeney ,TX
+7997,Mc Sherrystown ,PA
+7998,Mc Veytown ,PA
+8003,McCutcheon Field ,NC
+8016,Meadow Lands ,PA
+8017,Meadowview ,VA
+8019,Meally ,KY
+8021,Mears ,MI
+8050,Medinah ,IL
+8054,Medway ,OH
+8062,Melcroft ,PA
+8065,Melrose ,FL
+8067,Melrose ,NY
+8068,Melrose ,WI
+8077,Memphis ,NY
+8083,Mendenhall ,PA
+8102,Mercer ,TN
+8114,Merion Station ,PA
+8117,Merna ,IL
+8128,Merritt ,NC
+8130,Merrittstown ,PA
+8135,Mesilla Park ,NM
+8143,Methuen ,MA
+8161,Mickleton ,NJ
+8162,Mico ,TX
+8164,Middle Grove ,NY
+8165,Middle Haddam ,CT
+8168,Middle Village ,NY
+8169,Middleboro ,MA
+8171,Middlebranch ,OH
+8179,Middlebury ,VT
+8180,Middlebury Center ,PA
+8202,Middleville ,NJ
+8204,Midland ,GA
+8216,Midlothian ,VA
+8225,Midway Park ,NC
+8226,Mifflin ,PA
+8229,Mikado ,MI
+8236,Mildred ,PA
+8239,Milesville ,SD
+8250,Milford ,VA
+8253,Mill Creek ,IN
+8254,Mill Creek ,PA
+8257,Mill Run ,PA
+8279,Millersville ,MD
+8280,Millersville ,MO
+8284,Milligan College ,TN
+8288,Millington ,NJ
+8292,Millmont ,PA
+8299,Millstone Township ,NJ
+8300,Milltown ,MT
+8307,Millville ,WV
+8308,Millwood ,WV
+8309,Millwood ,NY
+8310,Milmay ,NJ
+8342,Mineral Point ,PA
+8346,Mineral Springs ,PA
+8348,Mineral Wells ,WV
+8365,Minot ,MA
+8367,Minotola ,NJ
+8370,Mira Loma ,CA
+8376,Mission Hill ,SD
+8385,Mitchells ,VA
+8387,Mizpah ,NJ
+8392,Model City ,NY
+8394,Modena ,NY
+8401,Mohegan Lake ,NY
+8406,Moline ,MI
+8412,Monarch ,MT
+8419,Moneta ,VA
+8421,Monkton ,MD
+8422,Monkton ,VT
+8429,Monponsett ,MA
+8435,Monroe ,ME
+8439,Monroe ,VA
+8443,Monroe ,OK
+8444,Monroe ,SD
+8446,Monroe Township ,NJ
+8449,Monroeville ,NJ
+8459,Mont Clare ,PA
+8476,Monterville ,WV
+8478,Monteview ,ID
+8488,Montgomery ,PA
+8503,Monticello ,WI
+8505,Montour Falls ,NY
+8507,Montpelier ,IA
+8512,Montpelier ,VA
+8514,Montpelier Station ,VA
+8515,Montrose ,AL
+8516,Montrose ,CA
+8528,Montville ,OH
+8534,Moody ,ME
+8536,Moon ,VA
+8539,Moore ,SC
+8553,Mora ,LA
+8555,Morann ,PA
+8563,Morgan ,PA
+8575,Mormon Lake ,AZ
+8577,Morning View ,KY
+8582,Morrill ,ME
+8590,Morris Chapel ,TN
+8592,Morris Run ,PA
+8598,Morrisonville ,WI
+8611,Morton ,NY
+8615,Moscow ,IA
+8619,Moscow ,VT
+8620,Moseley ,VA
+8625,Mossville ,IL
+8628,Moultonborough ,NH
+8630,Mound ,TX
+8640,Mount Berry ,GA
+8641,Mount Bethel ,PA
+8643,Mount Braddock ,PA
+8653,Mount Desert ,ME
+8666,Mount Joy ,PA
+8674,Mount Olive ,AL
+8676,Mount Olive ,WV
+8678,Mount Perry ,OH
+8681,Mount Pleasant ,PA
+8689,Mount Royal ,NJ
+8693,Mount Solon ,VA
+8696,Mount Storm ,WV
+8698,Mount Tabor ,NJ
+8699,Mount Ulla ,NC
+8716,Mount Zion ,WV
+8717,Mountain Dale ,NY
+8720,Mountain Home ,TN
+8732,Mt Zion ,IL
+8744,Mullett Lake ,MI
+8745,Mullica Hill ,NJ
+8748,Mumford ,NY
+8752,Muncy Valley ,PA
+8756,Munger ,MI
+8757,Munith ,MI
+8766,Murphy ,OR
+8770,Murrayville ,GA
+8779,Musella ,GA
+8784,Myakka City ,FL
+8792,Nancy ,KY
+8793,Nanjemoy ,MD
+8794,Nankin ,OH
+8795,Nanty Glo ,PA
+8811,Narvon ,PA
+8814,Nashport ,OH
+8817,Nashville ,TN
+8824,Nassau ,DE
+8830,National City ,MI
+8832,Natrona Heights ,PA
+8836,Navarre ,MN
+8839,Naylor ,GA
+8846,Needham Heights ,MA
+8847,Neelyton ,PA
+8849,Neffs ,PA
+8860,Nemo ,SD
+8870,Nesbit ,MS
+8872,Neshanic Station ,NJ
+8873,Neshkoro ,WI
+8882,Neversink ,NY
+8893,New Baltimore ,NY
+8903,New Bloomfield ,PA
+8904,New Boston ,MI
+8915,New Caney ,TX
+8916,New Canton ,VA
+8925,New Century ,KS
+8928,New Concord ,KY
+8930,New Creek ,WV
+8938,New Enterprise ,PA
+8942,New Franken ,WI
+8952,New Hampton ,NY
+8961,New Haven ,VT
+8962,New Hill ,NC
+8970,New Hudson ,MI
+8982,New Lisbon ,NJ
+8993,New Manchester ,WV
+9003,New Munster ,WI
+9011,New Park ,PA
+9014,New Point ,VA
+9016,New Portland ,ME
+9018,New Preston Marble Dale ,CT
+9021,New Providence ,PA
+9036,New Springfield ,OH
+9044,New Vernon ,NJ
+9055,New Windsor ,IL
+9059,New York Mills ,NY
+9060,Newalla ,OK
+9065,Newark ,NY
+9075,Newburg ,MD
+9077,Newburg ,PA
+9083,Newbury Park ,CA
+9086,Newcastle ,ME
+9098,Newfoundland ,NJ
+9099,Newhall ,CA
+9103,Newman Lake ,WA
+9111,Newport ,MI
+9114,Newport ,NJ
+9118,Newport ,VA
+9121,Newport Coast ,CA
+9132,Newton ,WI
+9133,Newton Center ,MA
+9137,Newton Highlands ,MA
+9138,Newton Lower Falls ,MA
+9139,Newton Upper Falls ,MA
+9141,Newtonville ,MA
+9142,Newtonville ,NJ
+9143,Newtonville ,NY
+9147,Newtown Square ,PA
+9160,Nicktown ,PA
+9167,Nine Mile Falls ,WA
+9170,Nineveh ,PA
+9172,Niota ,IL
+9192,Norge ,VA
+9193,Norma ,NJ
+9194,Normal ,IL
+9195,Normalville ,PA
+9197,Normandy Beach ,NJ
+9198,Norridgewock ,ME
+9204,North ,VA
+9208,North Anson ,ME
+9211,North Attleboro ,MA
+9216,North Bay ,NY
+9221,North Benton ,OH
+9224,North Billerica ,MA
+9230,North Bridgton ,ME
+9233,North Canton ,CT
+9235,North Carver ,MA
+9237,North Chatham ,MA
+9238,North Chatham ,NY
+9239,North Chelmsford ,MA
+9241,North Chili ,NY
+9244,North Dartmouth ,MA
+9245,North Dighton ,MA
+9249,North Easton ,MA
+9251,North Evans ,NY
+9254,North Ferrisburgh ,VT
+9256,North Franklin ,CT
+9258,North Garden ,VA
+9259,North Grafton ,MA
+9261,North Greece ,NY
+9262,North Grosvenordale ,CT
+9265,North Hatfield ,MA
+9269,North Hills ,CA
+9270,North Hollywood ,CA
+9271,North Jackson ,OH
+9275,North Lake ,WI
+9281,North Lima ,OH
+9284,North Marshfield ,MA
+9286,North Monmouth ,ME
+9287,North Montpelier ,VT
+9291,North Oxford ,MA
+11826,Sieper ,LA
+11828,Sigel ,IL
+11829,Sigel ,PA
+11836,Silver Creek ,GA
+11842,Silver Lake ,NY
+11846,Silver Springs ,FL
+11848,Silver Star ,MT
+11849,Silverado ,CA
+11854,Silverwood ,MI
+11861,Simpsonville ,MD
+11865,Singers Glen ,VA
+11870,Sipesville ,PA
+11875,Six Lakes ,MI
+11877,Six Mile Run ,PA
+11883,Skowhegan ,ME
+11884,Skyland ,NC
+11885,Slate Hill ,NY
+11889,Slater ,SC
+11890,Slatersville ,RI
+11897,Slingerlands ,NY
+11898,Slippery Rock ,PA
+11902,Slocum ,RI
+11903,Sloughhouse ,CA
+11905,Smarr ,GA
+11909,Smithfield ,ME
+11911,Smithfield ,PA
+11917,Smithmill ,PA
+11918,Smiths Creek ,MI
+11928,Smithwick ,SD
+11934,Smyrna ,NC
+11941,Snow Camp ,NC
+11946,Snowshoe ,WV
+11951,Sod ,WV
+11953,Soddy Daisy ,TN
+11961,Solon ,ME
+11964,Solsberry ,IN
+11967,Somerdale ,OH
+11978,Somerset ,PA
+11980,Somerset ,VA
+11983,Somerset Center ,MI
+11984,Somersville ,CT
+11992,Somis ,CA
+11997,Sophia ,NC
+11999,Sorrento ,ME
+12009,South Bloomingville ,OH
+12012,South Branch ,MI
+12013,South Bristol ,ME
+12015,South Carver ,MA
+12016,South Casco ,ME
+12018,South Chatham ,MA
+12019,South China ,ME
+12020,South Dartmouth ,MA
+12023,South Dennis ,NJ
+12024,South Easton ,MA
+12029,South Freeport ,ME
+12030,South Gardiner ,ME
+12031,South Glastonbury ,CT
+12033,South Grafton ,MA
+12036,South Hamilton ,MA
+12037,South Harwich ,MA
+12044,South Jamesport ,NY
+12049,South Lyme ,CT
+12053,South Orange ,NJ
+12054,South Orleans ,MA
+12063,South Portsmouth ,KY
+12064,South Range ,WI
+12068,South Saint Paul ,MN
+12069,South Salem ,NY
+12070,South Seaville ,NJ
+12076,South Wales ,NY
+12077,South Walpole ,MA
+12079,South Wellfleet ,MA
+12080,South Weymouth ,MA
+12090,Southampton ,PA
+12093,Southbridge ,MA
+12104,Southport ,ME
+12106,Southside ,WV
+12108,Southwest Harbor ,ME
+12112,Spangler ,PA
+12117,Sparks Glencoe ,MD
+12129,Speer ,IL
+12134,Spencer ,OH
+12140,Spencer ,VA
+12142,Spencertown ,NY
+12143,Spencerville ,IN
+12146,Speonk ,NY
+12147,Sperry ,IA
+12155,Spofford ,NH
+12160,Spotsylvania ,VA
+12161,Spout Spring ,VA
+12164,Spring Branch ,TX
+12165,Spring Church ,PA
+12168,Spring Creek ,TN
+12184,Spring Run ,PA
+12185,Spring Valley ,CA
+12204,Springfield ,NJ
+12207,Springfield ,PA
+12210,Springfield ,ID
+12212,Springfield Gardens ,NY
+12216,Springs ,PA
+12217,Springtown ,PA
+12219,Springvale ,ME
+12222,Springville ,IN
+12226,Spruce ,MI
+12231,Stacy ,NC
+12233,Stafford ,VA
+12235,Stafford Springs ,CT
+12236,Staffordsville ,KY
+12237,Staffordville ,CT
+12238,Stahlstown ,PA
+12239,Stambaugh ,KY
+12249,Stanfordville ,NY
+12254,Stanley ,NY
+12261,Stanton ,NJ
+12268,Stapleton ,AL
+12275,State Farm ,VA
+12290,Stella ,NC
+12293,Stephenson ,VA
+12303,Sterling Forest ,NY
+12311,Stevenson ,MD
+12316,Stevensville ,PA
+12324,Stillwater ,ME
+12328,Stilwell ,KS
+12330,Stirling ,NJ
+12331,Stittville ,NY
+12340,Stockholm ,NJ
+12341,Stockholm ,SD
+12342,Stockton ,AL
+12348,Stockton Springs ,ME
+12362,Stonington ,ME
+12369,Stormville ,NY
+12370,Storrs Mansfield ,CT
+12377,Stout ,OH
+12383,Stowe ,VT
+12385,Strabane ,PA
+12403,Strawberry Plains ,TN
+12418,Studio City ,CA
+12420,Sturdivant ,MO
+12441,Sugar Grove ,PA
+12445,Sugar Loaf ,NY
+12446,Sugar Valley ,GA
+12453,Sullivan ,ME
+12456,Sullivans Island ,SC
+12466,Summerdale ,PA
+12467,Summerfield ,FL
+12469,Summerhill ,PA
+12475,Summit Argo ,IL
+12477,Summit Point ,WV
+12478,Summit Station ,OH
+12484,Sumterville ,FL
+12490,Sun Valley ,CA
+12499,Sunderland ,MD
+12501,Sunland ,CA
+12508,Sunset ,ME
+12509,Sunset ,SC
+12515,Supply ,NC
+12520,Surry ,ME
+12521,Susan ,VA
+12526,Sutherland ,VA
+12534,Swanlake ,ID
+12536,Swans Island ,ME
+12545,Swartswood ,NJ
+12557,Swoope ,VA
+12560,Sycamore ,PA
+12564,Sylmar ,CA
+12573,Taberg ,NY
+12577,Tad ,WV
+12579,Taft ,TN
+12580,Taftville ,CT
+12583,Talbott ,TN
+12585,Talcott ,WV
+12595,Tallman ,NY
+12597,Talmage ,PA
+12601,Tampa East ,FL
+12602,Tampa West ,FL
+12606,Tanner ,AL
+12609,Tarawa Terrace ,NC
+12615,Tarrs ,PA
+12617,Tarzana ,CA
+12619,Tate ,GA
+12626,Taylor Ridge ,IL
+12638,Tebbetts ,MO
+12639,Techny ,IL
+12646,Telferner ,TX
+12661,Ten Mile ,TN
+12667,Terra Ceia ,FL
+12672,Terrell ,NC
+12674,Terreton ,ID
+12687,Thaxton ,VA
+12704,Thomaston ,TX
+12706,Thomasville ,PA
+12709,Thompson ,OH
+12711,Thompson Ridge ,NY
+12712,Thompsons Station ,TN
+12719,Thorndike ,MA
+12720,Thorndike ,ME
+12724,Thornton ,PA
+12728,Thorofare ,NJ
+12732,Three Bridges ,NJ
+12735,Three Rivers ,MA
+12738,Thurman ,OH
+12747,Tillman ,SC
+12752,Timber ,OR
+12753,Timberlake ,NC
+12759,Tioga ,PA
+12760,Tiona ,PA
+12761,Tionesta ,PA
+12763,Tippecanoe ,IN
+12766,Tipton ,MI
+12770,Tire Hill ,PA
+12772,Titus ,AL
+12774,Titusville ,NJ
+12778,Toano ,VA
+12781,Toddville ,IA
+12791,Tomkins Cove ,NY
+12793,Tonawanda ,NY
+12794,Toney ,AL
+12804,Topinabee ,MI
+12805,Topping ,VA
+12813,Torrance ,PA
+12821,Towaco ,NJ
+12827,Townsend ,GA
+12831,Township of Washington ,NJ
+12832,Townville ,SC
+12834,Trabuco Canyon ,CA
+12835,Tracy ,IA
+12836,Tracys Landing ,MD
+12842,Tranquility ,NJ
+12843,Transfer ,PA
+12848,Travis AFB ,CA
+12849,Treichlers ,PA
+12853,Trempealeau ,WI
+12865,Trevett ,ME
+12866,Trevor ,WI
+12884,Trout ,LA
+12885,Trout Run ,PA
+12893,Troy ,ME
+12898,Troy ,VA
+12900,Trufant ,MI
+12912,Tuckahoe ,NJ
+12916,Tujunga ,CA
+12917,Tulare ,SD
+12934,Turtle Lake ,WI
+12935,Turton ,SD
+12943,Tuskegee Institute ,AL
+12947,Tuxedo Park ,NY
+12948,Twelve Mile ,IN
+12951,Twin Brooks ,SD
+12955,Twin Mountain ,NH
+12956,Twin Rocks ,PA
+12966,Tyngsboro ,MA
+12968,Tyrone ,PA
+12975,Ulysses ,PA
+12980,Uncasville ,CT
+12982,Underhill Center ,VT
+12990,Union ,NJ
+12993,Union ,MI
+12999,Union City ,OH
+13005,Union Lake ,MI
+13006,Union Mills ,IN
+13007,Union Pier ,MI
+13011,Uniontown ,AR
+13012,Uniontown ,MO
+13015,Unionville ,CT
+13016,Unionville ,IN
+13019,Unionville ,VA
+13023,Unity ,ME
+13024,Unityville ,PA
+13026,University of Richmond ,VA
+13030,Upatoi ,GA
+13037,Upperco ,MD
+13038,Upperstrasburg ,PA
+13039,Upperville ,VA
+13041,Upton ,NY
+13045,Urbana ,IN
+13056,Utica ,SD
+13057,Utica ,KY
+13064,Vale ,NC
+13065,Valencia ,CA
+13070,Valier ,PA
+13076,Valley City ,OH
+13078,Valley Forge ,PA
+13080,Valley Lee ,MD
+13084,Valley Village ,CA
+13085,Valleyford ,WA
+13095,Van Buren ,OH
+13097,Van Lear ,KY
+13099,Van Nuys ,CA
+13101,Van Wert ,IN
+13127,Vauxhall ,NJ
+13130,Velpen ,IN
+13131,Venango ,PA
+13133,Venetia ,PA
+13138,Venus ,FL
+13139,Venus ,PA
+13141,Veradale ,WA
+13142,Verbank ,NY
+13157,Vernon Center ,NY
+13159,Vernon Rockville ,CT
+13170,Verona Beach ,NY
+13176,Vestaburg ,MI
+13202,Villanova ,PA
+13209,Vincentown ,NJ
+13212,Vinemont ,AL
+13221,Virgil ,SD
+13230,Volin ,SD
+13236,Waban ,MA
+13239,Waccabuc ,NY
+13241,Waco ,KY
+13244,Waddell ,AZ
+13247,Wadesville ,IN
+13250,Wadmalaw Island ,SC
+13258,Wagontown ,PA
+13266,Wakarusa ,KS
+13267,Wake ,VA
+13270,Wakefield ,RI
+13280,Waldoboro ,ME
+13285,Waldron ,MO
+13289,Wales Center ,NY
+13293,Walhonding ,OH
+13301,Wall ,SD
+13310,Wallingford ,PA
+13323,Walnut Shade ,MO
+13335,Walton ,NY
+13355,Warfordsburg ,PA
+13356,Waring ,TX
+13358,Warm Springs ,MT
+13361,Warner ,SD
+13363,Warners ,NY
+13373,Warrendale ,PA
+13381,Warrington ,PA
+13388,Warsaw ,NY
+13394,Warwick ,MD
+13396,Wasco ,IL
+13404,Washington ,MI
+13412,Washington ,NJ
+13416,Washington Crossing ,PA
+13417,Washington Depot ,CT
+13425,Wasta ,SD
+13433,Waterbury Center ,VT
+13434,Waterfall ,PA
+13435,Waterford ,MI
+13438,Waterford ,VA
+13440,Waterford ,ME
+13442,Waterford Works ,NJ
+13451,Waterport ,NY
+13452,Waters ,MI
+13455,Watertown ,MA
+13463,Waterville ,PA
+13501,Waverly ,GA
+13504,Wawaka ,IN
+13517,Wayne ,PA
+13538,Webster ,IN
+13545,Webster Springs ,WV
+13553,Weirsdale ,FL
+13557,Welcome ,MD
+13563,Wellesley Hills ,MA
+13572,Wells Bridge ,NY
+13573,Wells Tannery ,PA
+13589,Wentworth ,SD
+13598,West Barnstable ,MA
+13601,West Berlin ,NJ
+13603,West Bloomfield ,MI
+13605,West Boothbay Harbor ,ME
+13606,West Boxford ,MA
+13618,West Chesterfield ,NH
+13625,West Coxsackie ,NY
+13626,West Creek ,NJ
+13632,West End ,NC
+13633,West Enfield ,ME
+13634,West Falls ,NY
+13639,West Friendship ,MD
+13640,West Granby ,CT
+13644,West Harrison ,NY
+13646,West Hartland ,CT
+13647,West Harwich ,MA
+13648,West Hatfield ,MA
+13652,West Henrietta ,NY
+13653,West Hickory ,PA
+13654,West Hills ,CA
+13657,West Hyannisport ,MA
+13662,West Kingston ,RI
+13665,West Lebanon ,NH
+13672,West Medford ,MA
+13684,West Newton ,MA
+13687,West Olive ,MI
+13688,West Oneonta ,NY
+13690,West Paducah ,KY
+13696,West Point ,PA
+13699,West Poland ,ME
+13702,West River ,MD
+13703,West Roxbury ,MA
+13708,West Salisbury ,PA
+13712,West Springfield ,MA
+13713,West Springfield ,PA
+13715,West Suffield ,CT
+13719,West Townsend ,MA
+13728,West Warren ,MA
+13741,Westernville ,NY
+13745,Westfield ,NC
+13747,Westfield ,WI
+13748,Westfield ,PA
+13758,Westland ,PA
+13767,Westmoreland City ,PA
+13770,Weston ,MI
+13779,Westpoint ,IN
+13783,Westport ,SD
+13784,Westport ,TN
+13786,Westtown ,NY
+13794,Wever ,IA
+13796,Wexford ,PA
+13799,Weymouth ,MA
+13805,Wheatland ,OK
+13814,Wheelwright ,MA
+13815,Whippany ,NJ
+13818,White ,PA
+13822,White Cottage ,OH
+13825,White Hall ,MD
+13826,White Heath ,IL
+13827,White Horse Beach ,MA
+13829,White Lake ,MI
+13830,White Lake ,NY
+13835,White Plains ,MD
+13837,White Post ,VA
+13845,Whitehouse ,NJ
+13848,Whitehouse Station ,NJ
+13851,Whites Creek ,TN
+13856,Whitestone ,NY
+13859,Whitewater ,CO
+13869,Whitney ,PA
+13872,Whittaker ,MI
+13877,Wickatunk ,NJ
+13881,Widen ,WV
+13882,Widnoon ,PA
+13889,Wildersville ,TN
+13890,Wilderville ,OR
+13893,Wildwood ,PA
+13894,Wildwood ,GA
+13896,Wilkes Barre ,PA
+13899,Willard ,NC
+13906,Williamsburg ,MI
+13908,Williamsburg ,IN
+13935,Willis ,MI
+13943,Williston ,NC
+13949,Willow Spring ,NC
+13954,Willseyville ,NY
+13955,Willshire ,IN
+13956,Wilmer ,AL
+13960,Wilmington ,CA
+13965,Wilmington ,NY
+13976,Wilsons Mills ,NC
+13987,Winburne ,PA
+13995,Winchester ,OH
+14000,Windfall ,IN
+14013,Windsor ,NJ
+14015,Windsor ,OH
+14016,Windsor ,PA
+14018,Windsor ,WI
+14021,Windsor Mill ,MD
+14030,Wingdale ,NY
+14031,Wingina ,VA
+14034,Winn ,MI
+14035,Winnabow ,NC
+14041,Winnetka ,CA
+14045,Winona ,OH
+14054,Winston ,GA
+14055,Winston Salem ,NC
+14058,Winter Harbor ,ME
+14062,Winterport ,ME
+14067,Winthrop ,MA
+14073,Wirtz ,VA
+14074,Wiscasset ,ME
+14077,Wise ,NC
+14088,Wolf Creek ,OR
+14089,Wolfeboro ,NH
+14090,Wolsey ,SD
+14096,Wood Ridge ,NJ
+14099,Wood River Junction ,RI
+14101,Woodbine ,MD
+14104,Woodbourne ,NY
+14116,Woodbury ,PA
+14120,Woodford ,VA
+14125,Woodland ,PA
+14127,Woodland Hills ,CA
+14130,Woodlawn ,TN
+14131,Woodlawn ,VA
+14132,Woodleaf ,NC
+14137,Woodruff ,AZ
+14144,Woodside ,NY
+14149,Woodstock ,MD
+14155,Woodstock Valley ,CT
+14160,Woodward ,PA

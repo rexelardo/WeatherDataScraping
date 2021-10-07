@@ -2,28 +2,15 @@
 import pandas as pd
 
 data = pd.read_csv('rescrapingclimate.csv')
-data.columns =  data.iloc[0]
-data = data.drop(0,0)
-data
-cities_needed = []
-for i in data['City, State']:
-    cities_needed.append(i)
-
-city_scrape = []
-state_scrape = []
-for i in cities_needed:
-    i = i.replace(',','')
-    city_scrape.append(i[:-2])
-    state_scrape.append(i[-2:])
+city_scrape = data['city'].to_list()
+state_scrape = data['state'].to_list()
 
 
 
 
 
 
-
-
-climate_data = {'city': city_scrape[13905:], 'state':state_scrape[13905:],'JanHigh':[],'JanLow':[],'FebHigh':[],'FebLow':[],\
+climate_data = {'city': city_scrape, 'state':state_scrape,'JanHigh':[],'JanLow':[],'FebHigh':[],'FebLow':[],\
                       'MarHigh':[], 'MarLow':[], 'AprHigh':[], 'AprLow':[],\
                'MayHigh':[], 'MayLow':[], 'JunHigh':[], 'JunLow':[], 'JulHigh':[], 'JulLow':[], 'AugHigh':[], 'AugLow':[],\
                'SepHigh':[], 'SepLow':[], 'OctHigh':[], 'OctLow':[],\
