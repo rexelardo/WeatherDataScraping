@@ -3,7 +3,7 @@
 
 import pandas as pd
 
-data = pd.read_csv('cities_to_scrape.csv')
+data = pd.read_csv('rescraping_cost_of_living.csv')
 city_scrape = data['city'].to_list()
 state_scrape = data['state'].to_list()
 
