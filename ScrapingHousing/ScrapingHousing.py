@@ -5,20 +5,9 @@ import pandas as pd
 
 
 # Getting all cities
-data = pd.read_csv('cities_to_scrape.csv')
-data.columns =  data.iloc[0]
-data = data.drop(0,0)
-data
-cities_needed = []
-for i in data['City, State']:
-    cities_needed.append(i)
-
-city_scrape = []
-state_scrape = []
-for i in cities_needed:
-    i = i.replace(',','')
-    city_scrape.append(i[:-2])
-    state_scrape.append(i[-2:])
+data = pd.read_csv('rescrapinghousing.csv')
+city_scrape = data['city'].to_list()
+state_scrape = data['state'].to_list()
 
 # OK now we import selenium and run the next steps
 
@@ -38,7 +27,7 @@ from selenium.common.exceptions import TimeoutException
 #     st.markdown(href, unsafe_allow_html=True)  
 
 
-home_data = {'city': city_scrape[14155:], 'state':state_scrape[14155:],'county':[], 'number of homes':[], 'median home age':[],\
+home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
            'home appr. last 10 years':[], 'Property Tax Rate':[], 'Property Taxes Paid':[], 'Homes Owned':[],\
            'Housing Vacant':[], 'Homes Rented':[]}

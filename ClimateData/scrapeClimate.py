@@ -1,7 +1,7 @@
 
 import pandas as pd
 
-data = pd.read_csv('cities_to_scrape.csv')
+data = pd.read_csv('rescrapingclimate.csv')
 data.columns =  data.iloc[0]
 data = data.drop(0,0)
 data
