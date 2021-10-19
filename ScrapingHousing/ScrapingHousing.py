@@ -27,7 +27,7 @@ from selenium.common.exceptions import TimeoutException
 #     st.markdown(href, unsafe_allow_html=True)  
 
 
-home_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'number of homes':[], 'median home age':[],\
+home_data = {'city': city_scrape[:2776], 'state':state_scrape[:2776],'county':[], 'number of homes':[], 'median home age':[],\
            'median home cost':[], 'home appr. last 12 months':[], 'home appr. last 5 years':[],\
            'home appr. last 10 years':[], 'Property Tax Rate':[], 'Property Taxes Paid':[], 'Homes Owned':[],\
            'Housing Vacant':[], 'Homes Rented':[]}
