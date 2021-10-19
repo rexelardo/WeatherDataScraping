@@ -9,7 +9,7 @@ state_scrape = data['state'].to_list()
 
 
 
-cost_of_living_data = {'city': city_scrape, 'state':state_scrape,'county':[], 'Overall':[],'Grocery':[],'Health':[],\
+cost_of_living_data = {'city': city_scrape[:2776], 'state':state_scrape[:2776],'county':[], 'Overall':[],'Grocery':[],'Health':[],\
                        'Housing':[],\
                       'Median Home Cost':[], 'Utilities':[], 'Transportation':[], 'Miscellaneous':[]}
 
