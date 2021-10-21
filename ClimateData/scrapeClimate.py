@@ -10,7 +10,7 @@ state_scrape = data['state'].to_list()
 
 
 
-climate_data = {'city': city_scrape[3271:], 'state':state_scrape[3271:],'JanHigh':[],'JanLow':[],'FebHigh':[],'FebLow':[],\
+climate_data = {'city': city_scrape[4085:], 'state':state_scrape[4085:],'JanHigh':[],'JanLow':[],'FebHigh':[],'FebLow':[],\
                       'MarHigh':[], 'MarLow':[], 'AprHigh':[], 'AprLow':[],\
                'MayHigh':[], 'MayLow':[], 'JunHigh':[], 'JunLow':[], 'JulHigh':[], 'JulLow':[], 'AugHigh':[], 'AugLow':[],\
                'SepHigh':[], 'SepLow':[], 'OctHigh':[], 'OctLow':[],\
